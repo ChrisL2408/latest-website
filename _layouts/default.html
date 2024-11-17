@@ -2,7 +2,6 @@
 <html lang="en">
   <head>
     {% include head.html %}
-    <!-- Open Graph tags -->
     <meta
       property="og:title"
       content="{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}"
@@ -15,18 +14,11 @@
       property="og:image"
       content="{{ site.url }}/assets/555_photos/IMG_4036.jpg"
     />
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="630" />
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
     <meta property="og:type" content="article" />
 
-    <!-- Debug line - remove after testing -->
-    <!-- Generated URL: {{ site.url }}/assets/555_photos/IMG_4036.jpg -->
-
-    <!-- Twitter Card tags -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@christianlvn" />
-    <meta name="twitter:creator" content="@christianlvn" />
     <meta
       name="twitter:title"
       content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"

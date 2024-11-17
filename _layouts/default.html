@@ -22,6 +22,8 @@
 
     <!-- Twitter Card tags -->
     <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@chrislevan24" />
+    <meta name="twitter:creator" content="@christlevan24" />
     <meta
       name="twitter:title"
       content="{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}"
@@ -32,9 +34,8 @@
     />
     <meta
       name="twitter:image"
-      content="{% if page.url contains '555' %}{{ site.url }}/assets/555_photos/IMG_4036.jpg{% else %}{{ site.url }}/assets/default-og.jpg{% endif %}"
+      content="{{ site.url }}{% if page.url contains '555' %}/assets/555_photos/IMG_4036.jpg{% else %}/assets/default-og.jpg{% endif %}"
     />
-    <meta name="twitter:creator" content="@christianlvn" />
   </head>
   <body>
     <nav>{% include nav.html %}</nav>

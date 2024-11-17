@@ -2,7 +2,6 @@
 <html lang="en">
   <head>
     {% include head.html %}
-
     <!-- Open Graph tags -->
     <meta
       property="og:title"
@@ -25,17 +24,17 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta
       name="twitter:title"
-      content="{% if page.title %}{{ page.title }} - Thoughts & Projects by {{ site.title }}{% else %}{{ site.title }} - Personal Website & Digital Garden{% endif %}"
+      content="{% if page.path contains '555.md' %}555 Night: Montreal's Creative Show & Tell | {{ site.title }}{% else %}{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}{% endif %}"
     />
     <meta
       name="twitter:description"
-      content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}{% else %}Exploring ideas at the intersection of technology, creativity and community building. Join me as I share my projects and learnings.{% endif %}"
+      content="{% if page.path contains '555.md' %}A cozy night of passion projects, homemade chai, and creative minds coming together in Montreal. 8 amazing presenters sharing their unique obsessions and ideas.{% else %}{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}{% else %}{{ site.description }}{% endif %}{% endif %}"
     />
     <meta
       name="twitter:image"
       content="{% if page.path contains '555.md' %}https://christianlevan.me/assets/555_photos/IMG_4036.jpg{% else %}https://christianlevan.me/assets/IMG_8265.JPG{% endif %}"
     />
-    <meta name="twitter:creator" content="@YourTwitterHandle" />
+    <meta name="twitter:creator" content="@christianlvn" />
   </head>
   <body>
     <nav>{% include nav.html %}</nav>

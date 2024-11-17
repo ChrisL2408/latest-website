@@ -7,3 +7,4 @@ group :jekyll_plugins do
 end
 
 gem "nokogiri", "~> 1.16"
+gem "mini_magick"

@@ -25,15 +25,15 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta
       name="twitter:title"
-      content="{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}"
+      content="{% if page.title %}{{ page.title }} - Thoughts & Projects by {{ site.title }}{% else %}{{ site.title }} - Personal Website & Digital Garden{% endif %}"
     />
     <meta
       name="twitter:description"
-      content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}"
+      content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}{% else %}Exploring ideas at the intersection of technology, creativity and community building. Join me as I share my projects and learnings.{% endif %}"
     />
     <meta
       name="twitter:image"
-      content="{% if page.path contains '555.md' %}https://christianlevan.me/assets/555_photos/IMG_4036.JPG{% else %}https://christianlevan.me/assets/IMG_8265.JPG{% endif %}"
+      content="{% if page.path contains '555.md' %}https://christianlevan.me/assets/555_photos/5552.png{% else %}https://christianlevan.me/assets/IMG_8265.JPG{% endif %}"
     />
     <meta name="twitter:creator" content="@YourTwitterHandle" />
   </head>

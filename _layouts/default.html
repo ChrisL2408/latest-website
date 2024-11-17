@@ -3,13 +3,22 @@
   <head>
     {% include head.html %}
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="IMG_4036" />
-    <meta name="twitter:description" content="Photo IMG_4036" />
+    <meta
+      name="twitter:title"
+      content="{% if page.title %}{{ page.title }}{% else %}Christian Levan{% endif %}"
+    />
+    <meta
+      name="twitter:description"
+      content="{% if page.description %}{{ page.description }}{% else %}{{ page.content | strip_html | truncatewords: 50 }}{% endif %}"
+    />
     <meta
       name="twitter:image"
-      content="https://christianlevan.me/assets/img_4036.jpg"
+      content="{% if page.image %}{{ page.image | absolute_url }}{% else %}https://christianlevan.me/assets/img_4036.jpg{% endif %}"
     />
-    <meta name="twitter:image:alt" content="IMG_4036" />
+    <meta
+      name="twitter:image:alt"
+      content="{% if page.image_alt %}{{ page.image_alt }}{% else %}{{ page.title }}{% endif %}"
+    />
   </head>
   <body>
     <nav>{% include nav.html %}</nav>

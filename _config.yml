@@ -55,4 +55,6 @@ graph_options:
     - "**/references/**"
     - "**/references/*"
 
-default_image: /assets/IMG_8265.JPG
+default_image: /assets/555_photos/IMG_4036.JPG
+
+url: "https://christianlevan.me"

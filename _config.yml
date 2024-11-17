@@ -54,3 +54,5 @@ graph_options:
     - "/_notes/references/**"
     - "**/references/**"
     - "**/references/*"
+
+default_image: /assets/IMG_8265.JPG

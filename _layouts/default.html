@@ -2,10 +2,11 @@
 <html lang="en">
   <head>
     {% include head.html %}
+    <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta
       name="twitter:title"
-      content="{% if page.title %}{{ page.title }}{% else %}Christian Levan{% endif %}"
+      content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"
     />
     <meta
       name="twitter:description"
@@ -13,7 +14,7 @@
     />
     <meta
       name="twitter:image"
-      content="{% if page.image %}{{ page.image | absolute_url }}{% else %}https://christianlevan.me/assets/img_4036.jpg{% endif %}"
+      content="{% if page.twitter.image %}{{ page.twitter.image | absolute_url }}{% elsif page.image %}{{ page.image | absolute_url }}{% else %}{{ site.default_image | absolute_url }}{% endif %}"
     />
     <meta
       name="twitter:image:alt"

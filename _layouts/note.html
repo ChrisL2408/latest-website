@@ -2,6 +2,15 @@
 layout: default
 ---
 
+<head>
+  <!-- Twitter Card Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="{{ page.title }}" />
+  <meta name="twitter:description" content="{{ page.description }}" />
+  <meta name="twitter:image" content="{{ site.url }}{{ page.image }}" />
+  <meta name="twitter:image:alt" content="{{ page.image_alt }}" />
+</head>
+
 <article>
   <div>
     <h1>{{ page.title }}</h1>

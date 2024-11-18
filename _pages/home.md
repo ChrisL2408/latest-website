@@ -7,7 +7,7 @@ permalink: /
 
 # About Me
 
-<img src="{{ '/assets/IMG_8265.jpg' | relative_url }}" alt="Christian Levan" style="max-width: 400px; width: 100%; height: auto; float: left; margin-right: 20px;">
+<img src="{{ '/assets/IMG_8265.jpg' | relative_url }}" alt="Christian Levan" style="max-width: 400px; width: 100%; height: auto; float: left; margin-right: 20px; margin-bottom: 20px;">
 
 {: style="text-align: justify;"}
 I'm Christian _(or Chris)_, currently finishing my degree at McGill in Economics & Computer Science while working in VC [Front Row Ventures](https://frontrow.ventures/) and at [Ground AI](https://joinground.com/) _(don't ask me about how I balance this pls)_

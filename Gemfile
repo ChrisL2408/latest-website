@@ -6,4 +6,4 @@ group :jekyll_plugins do
   gem "jekyll-last-modified-at"
 end
 
-gem "nokogiri", "~> 1.16"
+gem "nokogiri", "~> 1.17"

@@ -14,16 +14,12 @@ if ! command -v brew >/dev/null; then
     source ~/.zshrc
 fi
 
-# Only install Ruby if version < 3.0
+# Install Ruby via Homebrew instead of rbenv
 if ! command -v ruby >/dev/null || [ "$(ruby -e 'puts RUBY_VERSION >= "3.0"')" = "false" ]; then
-    echo "Installing/updating Ruby via rbenv..."
-    brew install rbenv
-    eval "$(rbenv init -)"
-    rbenv install 3.2.2
-    rbenv global 3.2.2
-    # Add rbenv to shell
-    echo 'eval "$(rbenv init -)"' >> ~/.zshrc
-    eval "$(rbenv init -)"
+    echo "Installing Ruby via Homebrew..."
+    brew install ruby@3.2
+    echo 'export PATH="/opt/homebrew/opt/ruby@3.2/bin:$PATH"' >> ~/.zshrc
+    source ~/.zshrc
 fi
 
 # Check if bundler is installed
@@ -41,5 +37,5 @@ fi
 # Install dependencies if needed
 bundle install
 
-# Start the server
-bundle exec jekyll serve --port 4003
+# Start Jekyll server
+bundle exec jekyll serve --livereload

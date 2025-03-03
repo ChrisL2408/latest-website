@@ -1,7 +1,7 @@
 ---
 title: goals for the rest of q4' + photo dump
 date: 2024-11-17
-category:
+category: writing
 ---
 
 - enjoy my last full semester of school while it lasts.

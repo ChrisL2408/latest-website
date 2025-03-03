@@ -1,7 +1,7 @@
 ---
 title: what football means to me (draft)
 date: 2024-11-17
-category: writing
+category:
 ---
 
 <div style="max-width:800px; margin: 0 auto;">

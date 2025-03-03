@@ -10,7 +10,7 @@ permalink: /
 <img src="{{ '/assets/IMG_8265.jpg' | relative_url }}" alt="Christian Levan" style="max-width: 400px; width: 100%; height: auto; float: left; margin-right: 20px; margin-bottom: 20px;">
 
 {: style="text-align: justify;"}
-I'm Christian _(or Chris)_, currently finishing my degree at McGill in Economics & Computer Science while leading Portfolio Support at [Front Row Ventures](https://frontrow.ventures/) and building Product at [AltaML's Venture Studio](https://altaml.com/).
+I'm Christian _(or Chris)_, currently finishing my degree at McGill in Economics & Computer Science while leading Portfolio Support at [Front Row Ventures](https://frontrow.ventures/) and building Product at [AltaML's Venture Studio](https://altaml.com/). I will join [Panache Ventures](https://www.panache.vc/panache-team/christian-levan) full-time as on the investment team after graduation.
 
 {: style="text-align: justify;"}
 Previously, I was a VC Intern at funds like [White Star Capital](https://whitestarcapital.com/) and [Inovia Capital](https://inovia.vc/) and had several Ops roles at startups. I'm obsessed with Brazilian Jiu-Jitsu and have been supporting Chelsea FC since I was 13 years old.

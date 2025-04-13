@@ -17,7 +17,7 @@ permalink: /
 <div style="text-align: justify;">
   <p>Hey, I'm Christian (Chris). About to graduate from McGill University to join the investment team at <a href="https://www.panache.vc/panache-team/christian-levan">Panache Ventures</a>, investing in pre-seed/seed Canadian-rooted founders.</p>
   
-  <p>I've spent the last few years in venture capital - leading investments and portfolio support at <a href="https://frontrow.ventures/">Front Row Ventures</a>, building product at <a href="https://altaml.com/">AltaML's</a> Venture Studio (founded by Investopedia's creator), interning at <a href="https://www.whitestarcapital.com/">White Star Capital</a> and <a href="https://www.inovia.vc/">Inovia Capital</a>, and working in biz ops roles at various startups.</p>
+  <p>I've spent the last few years in venture capital - leading investments and portfolio support at <a href="https://frontrow.ventures/">Front Row Ventures</a>, building product at <a href="https://altaml.com/">AltaML's</a> Venture Studio (founded by Investopedia's creator), investing in Seed to Series B at other funds like <a href="https://www.whitestarcapital.com/">White Star Capital</a> and <a href="https://www.inovia.vc/">Inovia Capital</a>, and working in biz ops roles at various startup like <a href="https://optionality.ai/">Optionality AI</a> & <a href="https://joinground.com/">Ground AI</a>.</p>
   
   <p>When I'm not obsessing over startups, I'm usually getting submitted in BJJ (somehow still addicted), suffering through another Chelsea FC's season, or running in the city to clear my head. I studied Economics, Computer Science & Entrepreneurship at McGill, which mostly taught me I'd rather build something real than debate theory all day.</p>
 </div>

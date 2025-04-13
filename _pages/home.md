@@ -7,14 +7,19 @@ permalink: /
 
 # About Me
 
-<div style="overflow: auto;">
-  <img src="{{ '/assets/IMG_8265.jpg' | relative_url }}" alt="Christian Levan" style="max-width: 400px; width: 100%; height: auto; float: left; margin-right: 20px; margin-bottom: 20px;">
-  <div style="text-align: justify; margin-top: 0;">
-    <p style="margin-top: 0;">Hey, I'm Christian (Chris). About to graduate from McGill University to join the investment team at <a href="https://www.panache.vc/panache-team/christian-levan">Panache Ventures</a>, investing in pre-seed/seed Canadian-rooted founders.</p>
-    
-    <p>I've spent the last few years in venture capital - leading investments and portfolio support at <a href="https://frontrow.ventures/">Front Row Ventures</a>, building product at <a href="https://altaml.com/">AltaML's Venture Studio</a> (founded by Investopedia's creator), interning at <a href="https://whitestarcapital.com/">White Star Capital</a> and <a href="https://inovia.vc/">Inovia Capital</a>, and working in biz ops roles at various startups.</p>
-    <p>When I'm not obsessing over startups, I'm usually getting submitted in BJJ (somehow still addicted), suffering through another Chelsea FC's season, or running in the to clear my head. I studied Economics, Computer Science & Entrepreneurship at McGill, which mostly taught me I'd rather build something real than debate theory all day.</p>
-  </div>
+<div style="margin-top: 20px;"></div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
+  <img src="{{ '/assets/IMG_8265.jpg' | relative_url }}" alt="Christian Levan" style="width: calc(50% - 10px); height: 300px; object-fit: cover; border-radius: 8px;">
+  <img src="{{ '/assets/555_photos/theboys.jpeg' | relative_url }}" alt="The boys" style="width: calc(50% - 10px); height: 300px; object-fit: cover; border-radius: 8px;">
+</div>
+
+<div style="text-align: justify;">
+  <p>Hey, I'm Christian (Chris). About to graduate from McGill University to join the investment team at <a href="https://www.panache.vc/panache-team/christian-levan">Panache Ventures</a>, investing in pre-seed/seed Canadian-rooted founders.</p>
+  
+  <p>I've spent the last few years in venture capital - leading investments and portfolio support at <a href="https://frontrow.ventures/">Front Row Ventures</a>, building product at <a href="https://altaml.com/">AltaML's</a> Venture Studio (founded by Investopedia's creator), interning at <a href="https://www.whitestarcapital.com/">White Star Capital</a> and <a href="https://www.inovia.vc/">Inovia Capital</a>, and working in biz ops roles at various startups.</p>
+  
+  <p>When I'm not obsessing over startups, I'm usually getting submitted in BJJ (somehow still addicted), suffering through another Chelsea FC's season, or running in the city to clear my head. I studied Economics, Computer Science & Entrepreneurship at McGill, which mostly taught me I'd rather build something real than debate theory all day.</p>
 </div>
 
 **A few links to explore**

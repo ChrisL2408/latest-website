@@ -7,21 +7,21 @@ permalink: /
 
 # About Me
 
-<img src="{{ '/assets/IMG_8265.jpg' | relative_url }}" alt="Christian Levan" style="max-width: 400px; width: 100%; height: auto; float: left; margin-right: 20px; margin-bottom: 20px;">
-
-{: style="text-align: justify;"}
-I'm Christian _(or Chris)_, currently finishing my degree at McGill in Economics & Computer Science while leading Portfolio Support at [Front Row Ventures](https://frontrow.ventures/) and building Product at [AltaML's Venture Studio](https://altaml.com/). I will join [Panache Ventures](https://www.panache.vc/panache-team/christian-levan) full-time as on the investment team after graduation.
-
-{: style="text-align: justify;"}
-Previously, I was a VC Intern at funds like [White Star Capital](https://whitestarcapital.com/) and [Inovia Capital](https://inovia.vc/) and had several Ops roles at startups. I'm obsessed with Brazilian Jiu-Jitsu and have been supporting Chelsea FC since I was 13 years old.
+<div style="overflow: auto;">
+  <img src="{{ '/assets/IMG_8265.jpg' | relative_url }}" alt="Christian Levan" style="max-width: 400px; width: 100%; height: auto; float: left; margin-right: 20px; margin-bottom: 20px;">
+  <div style="text-align: justify; margin-top: 0;">
+    <p style="margin-top: 0;">Hey, I'm Christian (Chris). About to graduate from McGill University to join the investment team at <a href="https://www.panache.vc/panache-team/christian-levan">Panache Ventures</a>, investing in pre-seed/seed Canadian-rooted founders.</p>
+    
+    <p>I've spent the last few years in venture capital - leading investments and portfolio support at <a href="https://frontrow.ventures/">Front Row Ventures</a>, building product at <a href="https://altaml.com/">AltaML's Venture Studio</a> (founded by Investopedia's creator), interning at <a href="https://whitestarcapital.com/">White Star Capital</a> and <a href="https://inovia.vc/">Inovia Capital</a>, and working in biz ops roles at various startups.</p>
+    <p>When I'm not obsessing over startups, I'm usually getting submitted in BJJ (somehow still addicted), suffering through another Chelsea FC's season, or running in the to clear my head. I studied Economics, Computer Science & Entrepreneurship at McGill, which mostly taught me I'd rather build something real than debate theory all day.</p>
+  </div>
+</div>
 
 **A few links to explore**
 
 • <a href="/writing" class="internal-link">Writing</a>
 <br>
 • <a href="/projects" class="internal-link">Projects</a>
-<br>
-• <a href="/now" class="internal-link">Now</a>
 
 <strong>Recently</strong>
 

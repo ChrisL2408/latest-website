@@ -11,7 +11,7 @@ date: 2024-03-03
 
 I'm writing this a few weeks out from my official end date at [Front Row Ventures](https://frontrow.ventures/) (FRV), which is definitely the most bittersweet feeling I've ever felt about something.
 
-After these 3 years, it has been a magical journey for me. I really owe FRV a lot in my learning journey - from someone who had no idea what VC meant to being able to do this full-time after graduation is something that would never have been possible without FRV.
+After these 3 years, it has been a magical journey for me. I really owe FRV a lot in my learning journey, from someone who had no idea what VC meant to being able to do this full-time after graduation is something that would never have been possible without FRV. Here are my 5 key lessons I've taken away from 3 years at FRV that I hope can be useful for anyone reading who is either interested in joining or is currently at FRV (and even for those who aren't in either!).
 
 _If you are reading this and are either thinking of joining or starting out at FRV, I would love to share with you my lessons & core experiences that made this so magical for me and show you how to make the most out of it._
 
@@ -71,3 +71,43 @@ This reliability built leadership trust and opened doors to the investment side.
   <img src="/assets/writing_photos/office.jpeg" alt="Office" style="width: 100%; height: auto; margin: 20px 0; border-radius: 8px;">
   <em style="display: block; text-align: center;">Event at ESPACE CDPQ</em>
 </div>
+
+### Lesson 3: Once you get your foot in, _remember to execute_.
+
+I think this is as equally important as the first piece of advice because I find that most people once they get their "dream" role/position they tend to think the "job is finished". What most people don't realise is that the job has barely started. It's always important to remind yourself that if you want do great things anywhere, from day one you need to be ready to execute.
+
+Relating back to FRV, I knew that once I got my "foot in", I was off to the races and time was ticking to deliver as much impact as I could to the organisation. Here are a few key questions I asked myself in order to prepare myself mentally to put my best work and foot forward.
+
+1. _Why am I here?_
+
+   Sounds simple right? But in reality lots of folks are driven by surprisngly extrinsic motivators and in order to succeed, I'm a firm believer you must introspect and ask yourself why you want to be at a certain organisation. Having a deeper purpose leads to being able to execute even when the days are tougher because you can always go back to your _why_.
+
+   For me, I wanted to _break into vc_ somehow and learn as much as I could from this once in a life-time opportunity. I was privilged, not many college students have the chance to learn this first-hand outside the class room and I wanted to make the most out of it.
+
+2. _How badly do I want it?_
+
+   Another question which sounds rather obvious, but a lot of people are actually not quite honest with themselves on how much they want to achieve a certain goal. If you want it badly you will inherently put in MORE work and it will lead to more fruits of labor for you. ( I talk about this a bit more in my fourth lesson).
+
+3. _What systems can I create to make my life easier?_
+
+   In order to execute, creating goals and objetives are helpful but what I learned later on at FRV was the process of creating systems in order to make you more efficient will make your life easier as you manage school, social life and other projects. These systems come in different forms, for me it was time-blocking morning and evening to actively check my FRV email/slack and sometimes work on high priority items where I would be a blocker for the rest of the team.
+
+**Key lesson: Once you get your foot in, remember that the work has only begun and you need to prove your place at the table amongst other people at FRV. To do efficiently you need to be able to internally audit your why, how badly you want to achieve your specifc goal and create systems for you to execute more efficiently in your day to day**
+
+### Lesson 4: Get to know everyone (I really mean it).
+
+    What is unique with FRV compared to any other student related extra-curricular is that you are probably surrounded with the highest density of smart, motivated and hungry university students in Canada who are all interested in startups and venture capital. What you don't realise until later on is that there's a good chance that these are the people in 10-15+ years down the line (if you stay in this ecosystem), who you will end up building companies with, raise VC funds with and potentially do business with in the future.
+
+    I personally got to make some of my best friends to date from FRV (Shoutout to Khang, Nic, Martin & Eunice!). From folks that I would never have the chance to meet because they went to school outside of Montreal, this was a great opportuniy to expand my network outside of my province but also make new friends.
+
+**Key lesson: Go talk to as many people as you can in your FRV batch or alumni, there are super powerful present/future connections but also potential best friends for many years to come. You also never know when someone might be of help or when you will be of help for someone. VC is a relationship-based game and having these nodes of connections helps a ton in the future!**
+
+### Lesson 5: Enjoy the journey because it's a marathon not a sprint!
+
+    This is probably the biggest lesson I've taken away from FRV. For those who knew me during my time there, you would probably remember me being either a) super responsive ALL the time or b) somewhat complaining how busy my schedule and my weeks would be. To be honest these are okay in short sprints or during busy work semesters. However, doing this for 3 years non-stop balancing school, other internships, social life, sports and other projects, I realised that it just is not sustainable in the long-term.
+
+    So no matter how strong your why is, how badly you want it, continue to work hard but also take sometime to enjoy the other things life offers, epsecially while you're still in university. You only live your early 20s once! So go and also enjoy other things as much as you grind FRV and other projects. Looking back some of my biggest regrets were perhaps not going to that "one social" because I was "busy" with work but looking back I don't think that piece of work would have mattered as much as the potential memories created.
+
+**Key lesson: Work hard, but also take a step back every now and then and reset yourself. Conttary to popular believe you won't work twice as harder if you're four times as tired from potential burnout**.
+
+### Conclusion

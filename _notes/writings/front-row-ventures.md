@@ -1,6 +1,6 @@
 ---
 layout: note
-title: Reflections & Lessons from 3 years at FRV (draft)
+title: Lessons from 3 years at FRV
 
 permalink: /writing/front-row-ventures
 category: writing
@@ -108,6 +108,10 @@ Relating back to FRV, I knew that once I got my "foot in", I was off to the race
 
     So no matter how strong your why is, how badly you want it, continue to work hard but also take sometime to enjoy the other things life offers, epsecially while you're still in university. You only live your early 20s once! So go and also enjoy other things as much as you grind FRV and other projects. Looking back some of my biggest regrets were perhaps not going to that "one social" because I was "busy" with work but looking back I don't think that piece of work would have mattered as much as the potential memories created.
 
-**Key lesson: Work hard, but also take a step back every now and then and reset yourself. Conttary to popular believe you won't work twice as harder if you're four times as tired from potential burnout**.
+**Key lesson: Work hard, but also take a step back every now and then and reset yourself. Conttary to popular believe you won't work twice as harder if you are four times as tired from potential burnout**.
 
 ### Conclusion
+
+    The last thing I will say is at the end of the day *remember to have fun because* if you don't like what you and you don't have fun, 99% of the time you will not be able to put do your greatest work. Enjoy the process, don't get too caught up in the weeds of it and take a step back once in a while and appreciate how far you have come!
+
+    I'm rooting for you and good luck!

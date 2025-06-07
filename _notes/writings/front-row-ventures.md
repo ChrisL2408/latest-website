@@ -96,22 +96,22 @@ Relating back to FRV, I knew that once I got my "foot in", I was off to the race
 
 ### Lesson 4: Get to know everyone (I really mean it).
 
-    What is unique with FRV compared to any other student related extra-curricular is that you are probably surrounded with the highest density of smart, motivated and hungry university students in Canada who are all interested in startups and venture capital. What you don't realise until later on is that there's a good chance that these are the people in 10-15+ years down the line (if you stay in this ecosystem), who you will end up building companies with, raise VC funds with and potentially do business with in the future.
+What is unique with FRV compared to any other student related extra-curricular is that you are probably surrounded with the highest density of smart, motivated and hungry university students in Canada who are all interested in startups and venture capital. What you don't realise until later on is that there's a good chance that these are the people in 10-15+ years down the line (if you stay in this ecosystem), who you will end up building companies with, raise VC funds with and potentially do business with in the future.
 
-    I personally got to make some of my best friends to date from FRV (Shoutout to Khang, Nic, Martin & Eunice!). From folks that I would never have the chance to meet because they went to school outside of Montreal, this was a great opportuniy to expand my network outside of my province but also make new friends.
+I personally got to make some of my best friends to date from FRV (Shoutout to Khang, Nic, Martin & Eunice!). From folks that I would never have the chance to meet because they went to school outside of Montreal, this was a great opportuniy to expand my network outside of my province but also make new friends.
 
 **Key lesson: Go talk to as many people as you can in your FRV batch or alumni, there are super powerful present/future connections but also potential best friends for many years to come. You also never know when someone might be of help or when you will be of help for someone. VC is a relationship-based game and having these nodes of connections helps a ton in the future!**
 
 ### Lesson 5: Enjoy the journey because it's a marathon not a sprint!
 
-    This is probably the biggest lesson I've taken away from FRV. For those who knew me during my time there, you would probably remember me being either a) super responsive ALL the time or b) somewhat complaining how busy my schedule and my weeks would be. To be honest these are okay in short sprints or during busy work semesters. However, doing this for 3 years non-stop balancing school, other internships, social life, sports and other projects, I realised that it just is not sustainable in the long-term.
+This is probably the biggest lesson I've taken away from FRV. For those who knew me during my time there, you would probably remember me being either a) super responsive ALL the time or b) somewhat complaining how busy my schedule and my weeks would be. To be honest these are okay in short sprints or during busy work semesters. However, doing this for 3 years non-stop balancing school, other internships, social life, sports and other projects, I realised that it just is not sustainable in the long-term.
 
-    So no matter how strong your why is, how badly you want it, continue to work hard but also take sometime to enjoy the other things life offers, epsecially while you're still in university. You only live your early 20s once! So go and also enjoy other things as much as you grind FRV and other projects. Looking back some of my biggest regrets were perhaps not going to that "one social" because I was "busy" with work but looking back I don't think that piece of work would have mattered as much as the potential memories created.
+So no matter how strong your why is, how badly you want it, continue to work hard but also take sometime to enjoy the other things life offers, epsecially while you're still in university. You only live your early 20s once! So go and also enjoy other things as much as you grind FRV and other projects. Looking back some of my biggest regrets were perhaps not going to that "one social" because I was "busy" with work but looking back I don't think that piece of work would have mattered as much as the potential memories created.
 
 **Key lesson: Work hard, but also take a step back every now and then and reset yourself. Conttary to popular believe you won't work twice as harder if you are four times as tired from potential burnout**.
 
 ### Conclusion
 
-    The last thing I will say is at the end of the day *remember to have fun because* if you don't like what you and you don't have fun, 99% of the time you will not be able to put do your greatest work. Enjoy the process, don't get too caught up in the weeds of it and take a step back once in a while and appreciate how far you have come!
+The last thing I will say is at the end of the day _remember to have fun because_ if you don't like what you and you don't have fun, 99% of the time you will not be able to put do your greatest work. Enjoy the process, don't get too caught up in the weeds of it and take a step back once in a while and appreciate how far you have come!
 
-    I'm rooting for you and good luck!
+I'm rooting for you and good luck!

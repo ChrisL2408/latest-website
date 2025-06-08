@@ -6,7 +6,7 @@ permalink: /writing/
 
 # Writing
 
-A collection of thoughts, reflections, and essays.
+A collection of thoughts, reflections, and essays. To find all my main pieces you can check out my [Substack](https://substack.com/@clevan).
 
 <style>
 .date {

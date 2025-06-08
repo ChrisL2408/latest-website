@@ -27,6 +27,8 @@ permalink: /
 • <a href="/writing" class="internal-link">Writing</a>
 <br>
 • <a href="/projects" class="internal-link">Projects</a>
+<br>
+• <a href="/resources" class="internal-link">Resources</a>
 
 <strong>Recently</strong>
 
@@ -106,3 +108,9 @@ permalink: /
     max-width: 46em;
   }
 </style>
+
+<div style="margin-top: 2rem;">
+  <a href="/writing" style="text-decoration: none; color: inherit; margin-right: 2rem;">Writing</a>
+  <a href="/projects" style="text-decoration: none; color: inherit; margin-right: 2rem;">Projects</a>
+  <a href="/resources" style="text-decoration: none; color: inherit;">Resources</a>
+</div>

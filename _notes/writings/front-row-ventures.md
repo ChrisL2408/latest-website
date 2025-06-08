@@ -4,7 +4,7 @@ title: lessons from 3 years at front row ventures
 
 permalink: /writing/front-row-ventures
 category: writing
-date: 2025-06-03
+date: 2025-07-03
 ---
 
 ### Prelude

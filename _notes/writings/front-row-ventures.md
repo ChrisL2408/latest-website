@@ -96,7 +96,7 @@ Relating back to FRV, I knew that once I got my "foot in", I was off to the race
 **Key lesson: Once you get your foot in, remember that the work has only begun and you need to prove your place at the table amongst other people at FRV. To do efficiently you need to be able to internally audit your why, how badly you want to achieve your specific goal and create systems for you to execute more efficiently in your day to day**
 
 <div style="max-width:600px; margin: 0 auto;">
-  <img src="/assets/writing_photos/calendar.png" alt="Calendar" style="width: 100%; height: auto; margin: 20px 0; border-radius: 8px;">
+  <img src="/assets/writing_photos/cal.png" alt="Calendar" style="width: 100%; height: auto; margin: 20px 0; border-radius: 8px;">
   <em style="display: block; text-align: center;">A more or less accurate representation of how I blocked my calendar to balance all my life items with color coded items</em>
 </div>
 

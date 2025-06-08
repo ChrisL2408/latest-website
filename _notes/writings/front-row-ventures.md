@@ -86,7 +86,7 @@ Relating back to FRV, I knew that once I got my "foot in", I was off to the race
 
 2. _How badly do I want it?_
 
-   Another question which sounds rather obvious, but a lot of people are actually not quite honest with themselves on how much they want to achieve a certain goal. If you want it badly you will inherently put in MORE work and it will lead to more fruits of labor for you. ( I talk about this a bit more in my fourth lesson).
+   Another question which sounds rather obvious, but a lot of people are actually not quite honest with themselves on how much they want to achieve a certain goal. If you want it badly you will inherently put in MORE work and it will lead to more fruits of labor for you. (I talk about this a bit more in my fourth lesson).
 
 3. _What systems can I create to make my life easier?_
 
@@ -105,7 +105,7 @@ What is unique with FRV compared to any other student related extra-curricular i
 
 I personally got to make some of my best friends to date from FRV (Shoutout to Khang, Nic, Martin & Eunice!). From folks that I would never have the chance to meet because they went to school outside of Montreal, this was a great opportunity to expand my network outside of my province but also make new friends.
 
-**Key lesson: Go talk to as many people as you can in your FRV batch or alumni, there are super powerful present/future connections but also potential best friends for many years to come. You also never know when someone might be of help or when you will be of help for someone. VC is a relationship-based game and having these nodes of connections helps a ton in the future!**
+**Key lesson: Go talk to as many people as you can in your FRV batch or alumni, these are super powerful present/future connections but also potential best friends for many years to come. You also never know when someone might be of help or when you will be of help for someone. VC is a relationship-based game and having these nodes of connections helps a ton in the future!**
 
 <div style="max-width:600px; margin: 0 auto;">
   <img src="/assets/writing_photos/team23.jpeg" alt="Team 2023" style="width: 100%; height: auto; margin: 20px 0; border-radius: 8px;">

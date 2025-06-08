@@ -93,7 +93,7 @@ Relating back to FRV, I knew that once I got my "foot in", I was off to the race
 
    In order to execute, creating goals and objectives are helpful but what I learned later on at FRV was the process of creating systems in order to make you more efficient will make your life easier as you manage school, social life and other projects. These systems come in different forms, for me it was time-blocking morning and evening to actively check my FRV email/slack and sometimes work on high priority items where I would be a blocker for the rest of the team.
 
-**Key lesson: Once you get your foot in, remember that the work has only begun and you need to prove your place at the table amongst other people at FRV. To do efficiently you need to be able to internally audit your why, how badly you want to achieve your specific goal and create systems for you to execute more efficiently in your day to day**
+**Key lesson: Once you get your foot in, remember that the work has only begun and you need to prove your place at the table amongst other people at FRV. To do your best work efficiently you need to be able to internally audit your why, how badly you want to achieve your specific goal and create systems for you to execute more efficiently in your day to day**
 
 <div style="max-width:600px; margin: 0 auto;">
   <img src="/assets/writing_photos/cal.png" alt="Calendar" style="width: 100%; height: auto; margin: 20px 0; border-radius: 8px;">

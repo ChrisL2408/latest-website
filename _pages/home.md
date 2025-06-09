@@ -108,9 +108,3 @@ permalink: /
     max-width: 46em;
   }
 </style>
-
-<div style="margin-top: 2rem;">
-  <a href="/writing" style="text-decoration: none; color: inherit; margin-right: 2rem;">Writing</a>
-  <a href="/projects" style="text-decoration: none; color: inherit; margin-right: 2rem;">Projects</a>
-  <a href="/resources" style="text-decoration: none; color: inherit;">Resources</a>
-</div>

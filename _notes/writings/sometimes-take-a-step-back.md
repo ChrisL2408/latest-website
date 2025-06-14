@@ -2,7 +2,7 @@
 title: a reminder to take a step back
 date: 2025-06-14
 category: writing
-image: /assets/writing_photos/take.jpeg
+image: /assets/home_photos/take.jpeg
 ---
 
 sometimes the world moves fast, sometimes too fast. for those obsessed with their craft or so fixated towards a certain north star or goal, it can be easy to get lost in the details of it all. we forget to **take a step back** and appreciate the little things that make life beautiful.

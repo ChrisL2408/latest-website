@@ -66,8 +66,8 @@ The same applies to your life. You might not get into the degree you wanted, or 
 
 ## 3. Comparison is the thief of joy (mostly).
 
-_"Don't hope that events will turn out the way you want, welcome events in whichever way they happen: this is the path to peace."_  
-— Epictetus
+_"The grass is always greener where you water it."_  
+— Neil Barringham
 
 <div style="max-width:800px; margin: 0 auto; display: flex; justify-content: center;">
   <div style="width: 70%; min-width: 250px; margin-bottom: 15px;">

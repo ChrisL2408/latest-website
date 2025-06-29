@@ -33,15 +33,15 @@ _"Accept humbly, let go easily."_ – Marcus Aurelius
   </div>
 </div>
 
-Graduating high school meant leaving behind the familiar routine I'd grown comfortable with. My friends were moving on to university while I was headed to military service - two completely different paths that would naturally create distance between us.
+Graduating high school meant leaving behind the familiar routine I'd grown comfortable with. My friends were moving on to university while I was headed to military service: two completely different paths that would naturally create distance between us.
 
 At first, I clung to the past, scrolling through old photos, replaying memories, wishing things could go back. Every morning in camp was a reminder that my old life was over. It was brutal, and I felt left behind as others moved forward. Those were some of the hardest times in my life.
 
 But the truth is, nothing stays the same. Change is relentless. The people you think will always be there move on, and so do you. The sooner you accept that, the less it hurts. I learned to stop fighting the current and start swimming with it. Instead of mourning what was lost, I focused on adapting to what was in front of me.
 
-Military life forced me to embrace new routines, new people, and a new version of myself. The lesson? Change isn't the enemy, it's the only thing you can count on to keep growing and evolving. The faster you accept and adapt, the stronger you get.Now, whenever I face major changes in my life, I remind myself of those early days in the army.
+Military life forced me to embrace new routines, new people, and a new version of myself. The lesson? Change isn't the enemy, it's the only thing you can count on to keep growing and evolving. The faster you accept and adapt, the stronger you get. Now, whenever I face major changes in my life, I remind myself of those early days in the army.
 
-**The initial discomfort is temporary, but the growth that comes from embracing change is permanent. Whether it's starting a new job, moving to a new city, or entering a new phase of life, the same principle applies: accept humbly, let go easily, and trust that you'll emerge stronger on the other side.**
+**The initial discomfort is temporary, but the growth that comes from embracing change is permanent. Whether it's starting a new job, moving to a new city, or entering a new phase of life, the same principle applies: accept humbly, let go easily, and trust that you'll emerge stronger on the other side. Just like how the human species evolved through countless adaptations to survive and thrive, your personal evolution happens through embracing change rather than resisting it.**
 
 ## 2. Control what you can control.
 
@@ -56,11 +56,13 @@ _"It is not what happens to you, but how you react to it that matters."_ – Epi
 
 After completing the rough 8 weeks of Basic Military Training, I was posted to an Artillery unit as a Motor Transport Operator. At first, I was extremely disappointed because I wanted to be posted to command school, but I was not deemed fit enough at the time due to past history of health issues. For a prolonged period of time, I was distraught and upset as I was not given the opportunities I so deperately wanted for a while.
 
-Those tough moments taught me something crucial: life rarely gives you _exactly_ what you want. Instead of dwelling on what I couldn't control, I learned to focus my energy on what I could—my attitude, my effort, and my commitment to excellence in whatever role I was given.
+Those tough moments taught me something crucial: life rarely gives you _exactly_ what you want. Instead of dwelling on what I couldn't control, I learned to focus my energy on what I could, my attitude, my effort, and my commitment to excellence in whatever role I was given.
 
 **However, the character of winning and being good at what you do is irrespective of your circumstance. So if you're a winner, you don't quit. Irrespective of your situation, at the end of the day winners, are just winners.**
 
 The day I accepted and embraced this new mentality was the day I focused on controlling what I could control. I put in 110% effort in every tasking and mission, regardless of size, because that was within my power. I couldn't control my posting, but I could control my attitude and work ethic. I chose to be the best at my own vocation, making my military service meaningful by focusing on what I could change.
+
+The same applies to your life. You might not get into the degree you wanted, or your dream job out of graduation, but you can excel in whatever path you're given. A winner is a winner, and that character trait transcends circumstances. When you commit to being excellent in whatever role you find yourself in, opportunities will naturally open up because people recognize and reward that winning mindset.
 
 ## 3. Comparison is the thief of joy (mostly).
 
@@ -103,7 +105,7 @@ Because of this, I had to adapt fast. The thing about the military is you get pu
 
 The army taught me that when you're thrown into the unknown, your survival depends on being observant. You have to watch, listen, and pick up on the subtle cues that tell you how to navigate unfamiliar territory. I learned to read the room, understand power dynamics, and identify who I could trust versus who I needed to be careful around.
 
-This skill became my lifeline when I moved to Canada alone at 20, fresh from the army. I had to observe how people interacted, what the cultural norms were, and how to build relationships in a completely foreign environment.The key is that observation comes before adaptation. You can't adapt to what you don't understand, and you can't understand what you haven't observed.
+This skill became my lifeline when I moved to Canada alone at 20, fresh from the army. I had to observe how people interacted, what the cultural norms were, and how to build relationships in a completely foreign environment. The key is that observation comes before adaptation. You can't adapt to what you don't understand, and you can't understand what you haven't observed.
 
 The faster you overcome that activation energy and get things going, the faster you will succeed.
 
@@ -129,8 +131,6 @@ The army taught me gratitude in a way I never experienced before. I learned to f
 
 The army didn't just teach me how to be a soldier, it taught me how to be resilient in the face of change, focused on what I can control, confident in my own journey, adaptable to new environments, and grateful for life's simple blessings.
 
-These lessons have become the foundation of who I am today, and they continue to guide me through every challenge life throws my way.
-
-If you read it until here, I appreciate you sticking around and I hope you can take away 1-2 things to implement in your day-to-day life.
+These lessons have become the foundation of who I am today, and they continue to guide me through every challenge life throws my way.If you read it until here, I appreciate you sticking around and I hope you can take away 1-2 things to implement in your day-to-day life.
 
 _The concepts, methodology and procedures mentioned in this article are purely assertions of my own personal opinion and have no bearing whatsoever on the official operations protocol of the Singapore Armed Forces. No sensitive information is presented in this article._

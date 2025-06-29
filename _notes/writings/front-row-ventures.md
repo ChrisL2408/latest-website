@@ -1,6 +1,6 @@
 ---
 layout: note
-title: lessons from 3 years at front row ventures
+title: lessons from 3 years at front row ventures.
 
 permalink: /writing/front-row-ventures
 category: writing

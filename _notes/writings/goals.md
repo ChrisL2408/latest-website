@@ -1,5 +1,5 @@
 ---
-title: goals for the rest of q4' + photo dump
+title: goals for the rest of q4'.
 date: 2024-11-17
 category: writing
 ---

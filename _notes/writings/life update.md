@@ -1,5 +1,5 @@
 ---
-title: a little life update q1 25'
+title: a little life update q1 25'.
 date: 2025-03-02
 category: writing
 image: /assets/writing_photos/hanoistreet.jpeg

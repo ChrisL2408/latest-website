@@ -1,5 +1,5 @@
 ---
-title: a little life update q2 25'
+title: a little life update q2 25'.
 date: 2025-06-01
 image: /assets/writing_photos/placeholder.jpg
 ---

@@ -12,7 +12,7 @@ image: /assets/writing_photos/army1.jpeg
   </div>
 </div>
 
-It was around midnight. My first troop lift mission, 15 soldiers for an overnight operation. Pitch black except for my 5-ton truck's low beam cutting through the darkness. The terrain was brutal, jagged rocks, deep craters, and uneven ground that made every meter feel like a battle. No street lights, no markers, just pure darkness and the occasional sound of artillery fire echoing through the night like distant thunder.
+It was around midnight. My first troop lift mission: 15 soldiers for an overnight operation. Pitch black except for my 5-ton truck's low beam cutting through the darkness. The terrain was brutal, jagged rocks, deep craters, and uneven ground that made every meter feel like a battle. No street lights, no markers, just pure darkness and the occasional sound of artillery fire echoing through the night like distant thunder.
 
 I was sweating, nervous, as I lowered the tailboard to help lift the troops, my hands shaking as I navigated through what felt like a minefield of obstacles. My eyes were heavy from barely enough sleep the past few nights, fighting to stay alert as the truck bounced violently over the treacherous landscape. In that moment, I realized: _"I've never felt this much responsibility before. Their lives are literally in my hands."_
 

@@ -131,6 +131,6 @@ The army taught me gratitude in a way I never experienced before. I learned to f
 
 The army didn't just teach me how to be a soldier, it taught me how to be resilient in the face of change, focused on what I can control, confident in my own journey, adaptable to new environments, and grateful for life's simple blessings.
 
-These lessons have become the foundation of who I am today, and they continue to guide me through every challenge life throws my way.If you read it until here, I appreciate you sticking around and I hope you can take away 1-2 things to implement in your day-to-day life.
+These lessons have become the foundation of who I am today, and they continue to guide me through every challenge life throws my way. If you read it until here, I appreciate you sticking around and I hope you can take away 1-2 things to implement in your day-to-day life.
 
 _The concepts, methodology and procedures mentioned in this article are purely assertions of my own personal opinion and have no bearing whatsoever on the official operations protocol of the Singapore Armed Forces. No sensitive information is presented in this article._

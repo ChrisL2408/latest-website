@@ -118,6 +118,12 @@ document.addEventListener('DOMContentLoaded', function() {
 
 **Featured In**
 
+<div class="featured-item">
+  <span class="featured-icon">🎤</span>
+  <a href="https://open.spotify.com/episode/3z2RG9wX2RWMzXILBL2pRc" class="featured-link">Break Into VC Podcast: How This Uni Student Became a Venture Capitalist</a>
+  <p class="featured-desc">My episode on the Break Into VC Podcast — advice, stories, and how I broke into venture capital as a student</p>
+</div>
+
 <div class="featured-links">
   <div class="featured-item">
     <span class="featured-icon">🎙️</span>

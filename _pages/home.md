@@ -119,6 +119,12 @@ document.addEventListener('DOMContentLoaded', function() {
 **Featured In**
 
 <div class="featured-item">
+  <span class="featured-icon">🎙️</span>
+  <a href="https://open.spotify.com/episode/58NQ7Br1X5S5KIw0HAbrDX?si=Bx1My49ySUmzKut1x_V-PQ" class="featured-link">Built on WHY: He started at 0, now he's a VC and launching Montreal's tech scene</a>
+  <p class="featured-desc">My personal journey from Singapore to Montreal, building connections from zero, and building in Montreal</p>
+</div>
+
+<div class="featured-item">
   <span class="featured-icon">🎤</span>
   <a href="https://open.spotify.com/episode/3z2RG9wX2RWMzXILBL2pRc" class="featured-link">Break Into VC Podcast: How This Uni Student Became a Venture Capitalist</a>
   <p class="featured-desc">My episode on the Break Into VC Podcast — advice, stories, and how I broke into venture capital as a student</p>

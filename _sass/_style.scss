@@ -218,29 +218,3 @@ code {
     cursor: pointer;
   }
 }
-
-.site-title {
-  font-size: 2.1rem;
-  font-weight: 700;
-  letter-spacing: -1px;
-  padding: 0.2em 0.5em;
-}
-
-@media (max-width: 700px) {
-  .nav-container {
-    flex-direction: column;
-    align-items: center;
-    gap: 0.5em;
-  }
-  .site-title {
-    font-size: 1.3rem;
-    text-align: center;
-    padding: 0.5em 0;
-  }
-  .nav-buttons {
-    flex-direction: column;
-    gap: 0.5em;
-    width: 100%;
-    align-items: center;
-  }
-}

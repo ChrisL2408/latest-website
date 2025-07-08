@@ -10,16 +10,30 @@ image: /assets/writing_photos/sleep.jpg
 
 - so this last quarter has been crazy to say the least! To sum it up quick: ran my first official half-marathon, passed my final cs exam, graduated, spent time with family & finishing up 2 more months of military service in singapore.
 
-<div style="max-width:900px; margin: 0 auto; display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <div style="flex: 1 1 0; min-width: 280px; max-width: 32%; margin-bottom: 20px; display: flex; flex-direction: column; align-items: center; height: 370px;">
+<style>
+@media (max-width: 700px) {
+  .photo-flex-row {
+    flex-direction: column !important;
+    align-items: stretch !important;
+  }
+  .photo-flex-item {
+    min-width: 0 !important;
+    max-width: 100% !important;
+    margin-bottom: 20px !important;
+    height: auto !important;
+  }
+}
+</style>
+<div style="max-width:900px; margin: 0 auto; display: flex; justify-content: space-between; flex-wrap: wrap;" class="photo-flex-row">
+  <div style="flex: 1 1 0; min-width: 280px; max-width: 32%; margin-bottom: 20px; display: flex; flex-direction: column; align-items: center; height: 370px;" class="photo-flex-item">
     <img src="/assets/writing_photos/half.jpeg" alt="half marathon" style="width: 100%; aspect-ratio: 4/3; object-fit: cover; height: 85%; border-radius: 8px;">
     <em style="display: block; text-align: center;">first official half marathon in Toronto</em>
   </div>
-  <div style="flex: 1 1 0; min-width: 280px; max-width: 32%; margin-bottom: 20px; display: flex; flex-direction: column; align-items: center; height: 370px;">
+  <div style="flex: 1 1 0; min-width: 280px; max-width: 32%; margin-bottom: 20px; display: flex; flex-direction: column; align-items: center; height: 370px;" class="photo-flex-item">
     <img src="/assets/writing_photos/foodsg.jpeg" alt="singapore food" style="width: 100%; aspect-ratio: 4/3; object-fit: cover; height: 85%; border-radius: 8px;">
     <em style="display: block; text-align: center;">singapore food hits different</em>
   </div>
-  <div style="flex: 1 1 0; min-width: 280px; max-width: 32%; margin-bottom: 20px; display: flex; flex-direction: column; align-items: center; height: 370px;">
+  <div style="flex: 1 1 0; min-width: 280px; max-width: 32%; margin-bottom: 20px; display: flex; flex-direction: column; align-items: center; height: 370px; margin-left: auto; margin-right: auto;" class="photo-flex-item">
     <img src="/assets/writing_photos/grad.jpeg" alt="graduation" style="width: 100%; aspect-ratio: 4/3; object-fit: cover; height: 85%; border-radius: 8px;">
     <em style="display: block; text-align: center;">graduation day</em>
   </div>
@@ -32,16 +46,16 @@ image: /assets/writing_photos/sleep.jpg
 - main highlight was yet again, just enjoying singaporean food, i oddly missed food in the military camps too lol?
 - will be travelling japan, malaysia and briefly thailand in the next month with my girlfriend before i head back to montreal end of august.
 
-<div style="max-width:900px; margin: 0 auto; display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <div style="flex: 1 1 0; min-width: 280px; max-width: 32%; margin-bottom: 20px; display: flex; flex-direction: column; align-items: center; height: 370px;">
+<div style="max-width:900px; margin: 0 auto; display: flex; justify-content: space-between; flex-wrap: wrap;" class="photo-flex-row">
+  <div style="flex: 1 1 0; min-width: 280px; max-width: 32%; margin-bottom: 20px; display: flex; flex-direction: column; align-items: center; height: 370px;" class="photo-flex-item">
     <img src="/assets/writing_photos/scene.jpeg" alt="scene" style="width: 100%; aspect-ratio: 4/3; object-fit: cover; height: 85%; border-radius: 8px;">
     <em style="display: block; text-align: center;">singapore scenery</em>
   </div>
-  <div style="flex: 1 1 0; min-width: 280px; max-width: 32%; margin-bottom: 20px; display: flex; flex-direction: column; align-items: center; height: 370px;">
+  <div style="flex: 1 1 0; min-width: 280px; max-width: 32%; margin-bottom: 20px; display: flex; flex-direction: column; align-items: center; height: 370px;" class="photo-flex-item">
     <img src="/assets/writing_photos/behind.jpeg" alt="behind the scenes" style="width: 100%; aspect-ratio: 4/3; object-fit: cover; height: 85%; border-radius: 8px;">
     <em style="display: block; text-align: center;">sunset behind my house</em>
   </div>
-  <div style="flex: 1 1 0; min-width: 280px; max-width: 32%; margin-bottom: 20px; display: flex; flex-direction: column; align-items: center; height: 370px;">
+  <div style="flex: 1 1 0; min-width: 280px; max-width: 32%; margin-bottom: 20px; display: flex; flex-direction: column; align-items: center; height: 370px;" class="photo-flex-item">
     <img src="/assets/writing_photos/marina.jpeg" alt="marine" style="width: 100%; aspect-ratio: 4/3; object-fit: cover; height: 85%; border-radius: 8px;">
     <em style="display: block; text-align: center;">marina bay sands in singapore</em>
   </div>

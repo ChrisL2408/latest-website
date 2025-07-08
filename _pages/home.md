@@ -105,13 +105,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <strong>Recently</strong>
 
 <ul>
-  {% assign recent_notes = site.notes | where_exp: "note", "note.category == 'writing' or note.category == 'projects'" | where_exp: "note", "note.date != nil and note.date != ''" | sort: "date" | reverse %}
-  {% for note in recent_notes limit: 5 %}
+  {% assign recent_writings = site.notes | where: "category", "writing" | where_exp: "note", "note.date != nil and note.date != ''" | sort: "date" | reverse %}
+  {% for note in recent_writings limit: 5 %}
     <li>
-      {{ note.date | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
-      {% if note.category %}
-        <span style="color: #666; font-size: 0.9em;">({{ note.category }})</span>
-      {% endif %}
+      <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
     </li>
   {% endfor %}
 </ul>

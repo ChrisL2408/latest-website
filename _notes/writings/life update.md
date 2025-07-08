@@ -95,4 +95,4 @@ image: /assets/writing_photos/hanoistreet.jpeg
   </div>
 </div>
 
-If you enjoyed this, you might like [[goals for the rest of q4' + photo dump]]
+If you enjoyed this, you might like [[a little life update q2 25'.]]

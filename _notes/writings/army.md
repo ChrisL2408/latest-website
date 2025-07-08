@@ -3,7 +3,6 @@ title: what 2 years as a conscript soldier taught me.
 category: writing
 date: 2025-06-01
 subcategory: life lessons
-
 image: /assets/writing_photos/army1.jpeg
 ---
 

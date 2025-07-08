@@ -2,6 +2,7 @@
 title: a reminder to take a step back.
 date: 2025-06-14
 category: writing
+subcategory: life reminders
 image: /assets/writing_photos/take.jpeg
 ---
 

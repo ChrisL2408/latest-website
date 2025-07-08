@@ -2,6 +2,7 @@
 title: a little life update q2 25'.
 date: 2025-06-01
 category: writing
+subcategory: life updates
 image: /assets/writing_photos/sleep.jpg
 ---
 
@@ -19,8 +20,8 @@ image: /assets/writing_photos/sleep.jpg
     <em style="display: block; text-align: center;">singapore food hits different</em>
   </div>
   <div style="flex: 1 1 0; min-width: 280px; max-width: 32%; margin-bottom: 20px; display: flex; flex-direction: column; align-items: center; height: 370px;">
-    <img src="/assets/writing_photos/last.jpeg" alt="last photo" style="width: 100%; aspect-ratio: 4/3; object-fit: cover; height: 85%; border-radius: 8px;">
-    <em style="display: block; text-align: center;">one last time wearing this</em>
+    <img src="/assets/writing_photos/grad.jpeg" alt="graduation" style="width: 100%; aspect-ratio: 4/3; object-fit: cover; height: 85%; border-radius: 8px;">
+    <em style="display: block; text-align: center;">graduation day</em>
   </div>
 </div>
 
@@ -54,7 +55,7 @@ image: /assets/writing_photos/sleep.jpg
 
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
   <div style="min-width: 280px; max-width: 32%; display: flex; flex-direction: column; align-items: center; height: 370px;">
-    <img src="/assets/writing_photos/ca.jpeg" alt="back to base" style="width: 100%; aspect-ratio: 4/3; object-fit: cover; height: 85%; border-radius: 8px;">
+    <img src="/assets/writing_photos/last.jpeg" alt="back to base" style="width: 100%; aspect-ratio: 4/3; object-fit: cover; height: 85%; border-radius: 8px;">
     <em style="display: block; text-align: center;">back to base after 4 years</em>
   </div>
 </div>

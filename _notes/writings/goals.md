@@ -2,6 +2,7 @@
 title: goals for the rest of q4'.
 date: 2024-11-17
 category: writing
+subcategory: life updates
 ---
 
 - enjoy my last full semester of school while it lasts.

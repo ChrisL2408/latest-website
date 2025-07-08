@@ -1,6 +1,7 @@
 ---
 title: create your luck
 date: 2024-06-16
+subcategory: life reminders
 category: writing
 ---
 

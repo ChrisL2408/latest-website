@@ -1,6 +1,7 @@
 ---
 title: a reminder in hard times
 date: 2024-07-26
+subcategory: life updates
 category: writing
 ---
 

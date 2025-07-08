@@ -1,9 +1,9 @@
 ---
 layout: note
 title: lessons from 3 years at front row ventures.
-
 permalink: /writing/front-row-ventures
 category: writing
+subcategory: life lessons
 date: 2025-06-06
 image: /assets/writing_photos/frv_1.jpeg
 ---

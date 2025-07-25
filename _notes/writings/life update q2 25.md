@@ -28,7 +28,7 @@ image: /assets/writing_photos/sleep.jpg
 <style>
 @media (max-width: 768px) {
   body {
-    padding: 0 20px !important;
+    padding: 0 10px !important;
   }
   div[style*="max-width:900px"] {
     flex-direction: column !important;
@@ -38,8 +38,8 @@ image: /assets/writing_photos/sleep.jpg
   }
   div[style*="calc(33.33% - 10px)"] {
     width: 100% !important;
-    max-width: 280px !important;
-    margin: 0 auto 20px auto !important;
+    max-width: 240px !important;
+    margin: 0 auto 15px auto !important;
   }
   em[style*="font-size: 14px"] {
     padding: 0 5px !important;

@@ -6,6 +6,8 @@ permalink: /resources
 
 Here are some resources I've found helpful in my journey. I'll keep updating this list as I discover more valuable content.
 
+WIP
+
 <div class="note-list">
   {% assign sorted_notes = site.notes | where: "category", "resource" | sort: "date" | reverse %}
   {% for note in sorted_notes %}

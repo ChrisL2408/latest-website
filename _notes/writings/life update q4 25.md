@@ -74,30 +74,24 @@ If you're reading this and live in Toronto would love to grab a coffee with you 
 }
 
 .photo-grid {
-  width: 100vw; /* Use viewport width to break out of container if needed */
-  position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-  padding: 0 20px;
+  width: 100%; /* Respect parent container width */
+  margin: 20px auto;
+  padding: 0;
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: space-between;
   gap: 20px;
 }
 
 .photo-item {
-  width: 300px; /* Fixed width for desktop base */
-  flex: 1 1 300px; /* Grow and shrink, basis 300px */
-  max-width: 400px;
+  width: calc(33.333% - 14px); /* 3 columns with gap consideration */
   display: flex;
   flex-direction: column;
 }
 
 .photo-img {
   width: 100%;
-  height: 300px;
+  height: 250px; /* Reduced height for better fit */
   border-radius: 8px;
   object-fit: cover;
   display: block;
@@ -125,28 +119,28 @@ If you're reading this and live in Toronto would love to grab a coffee with you 
   display: block;
 }
 
-/* Specific Mobile Overrides */
-@media screen and (max-width: 768px) {
+/* Tablet Override (2 columns) */
+@media screen and (max-width: 900px) {
+  .photo-item {
+    width: calc(50% - 10px);
+  }
+}
+
+/* Mobile Override (1 column) */
+@media screen and (max-width: 600px) {
   .photo-grid {
-    width: 100%; /* Reset to container width */
-    margin: 0;
-    left: auto;
-    right: auto;
-    padding: 0;
     flex-direction: column;
-    align-items: center;
+    gap: 30px;
   }
   
   .photo-item {
     width: 100%;
-    max-width: 100%;
-    flex: none;
-    margin-bottom: 20px;
+    margin-bottom: 0;
   }
 
   .photo-img {
     height: auto;
-    aspect-ratio: 4/3;
+    aspect-ratio: 4/3; /* Standard photo aspect ratio */
   }
 }
 </style>

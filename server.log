@@ -142,3 +142,131 @@ LiveReload address: http://0.0.0.0:35729
                     _pages/home.md
                     ...done in 0.215247 seconds.
                     
+[2025-12-06 17:53:03] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:12 
+	/opt/homebrew/lib/ruby/gems/3.2.0/gems/webrick-1.9.0/lib/webrick/httpserver.rb:82:in `eof?'
+	/opt/homebrew/lib/ruby/gems/3.2.0/gems/webrick-1.9.0/lib/webrick/httpserver.rb:82:in `run'
+	/opt/homebrew/lib/ruby/gems/3.2.0/gems/webrick-1.9.0/lib/webrick/server.rb:310:in `block in start_thread'
+      Regenerating: 1 file(s) changed at 2025-12-08 19:28:35
+                    _notes/writings/life update q4 25.md
+                    ...done in 0.867826 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-08 19:28:41
+                    _notes/writings/life update q4 25.md
+                    ...done in 0.320949 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-08 19:28:44
+                    _notes/writings/life update q4 25.md
+                    ...done in 0.246633 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-08 19:29:08
+                    server.log
+                    ...done in 0.303416 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-08 19:29:09
+                    server.log
+                    ...done in 0.195669 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-08 19:29:26
+                    server.log
+                    ...done in 0.291801 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-08 19:29:26
+                    server.log
+                    ...done in 0.154686 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-08 19:29:37
+                    server.log
+                    ...done in 0.271355 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-08 19:29:38
+                    server.log
+                    ...done in 0.726902 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-08 19:29:39
+                    server.log
+                    ...done in 0.389775 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-08 19:29:47
+                    server.log
+                    ...done in 0.267078 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-08 19:29:47
+                    server.log
+                    ...done in 0.17674 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-08 19:29:48
+                    server.log
+                    ...done in 0.246533 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-08 19:29:58
+                    server.log
+                    ...done in 0.884051 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-08 19:29:59
+                    server.log
+                    ...done in 0.286356 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-08 19:30:13
+                    server.log
+                    ...done in 0.421681 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-08 19:30:13
+                    server.log
+                    ...done in 0.190937 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-08 19:30:19
+                    server.log
+                    ...done in 0.186968 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-08 19:30:20
+                    server.log
+                    ...done in 0.267167 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-08 19:30:20
+                    server.log
+                    ...done in 0.179389 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-08 19:30:35
+                    server.log
+                    ...done in 0.309515 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-08 19:30:35
+                    server.log
+                    ...done in 0.182681 seconds.
+                    
+[31m                    ------------------------------------------------[0m
+[31m      Jekyll 4.3.4   Please append `--trace` to the `serve` command [0m
+[31m                     for any additional information or backtrace. [0m
+[31m                    ------------------------------------------------[0m
+/opt/homebrew/lib/ruby/gems/3.2.0/gems/jekyll-4.3.4/lib/jekyll/commands/serve.rb:286:in `join': SIGTERM (SignalException)
+	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/jekyll-4.3.4/lib/jekyll/commands/serve.rb:286:in `boot_or_detach'
+	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/jekyll-4.3.4/lib/jekyll/commands/serve.rb:223:in `start_up_webrick'
+	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/jekyll-4.3.4/lib/jekyll/commands/serve.rb:102:in `process'
+	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/jekyll-4.3.4/lib/jekyll/command.rb:91:in `block in process_with_graceful_fail'
+	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/jekyll-4.3.4/lib/jekyll/command.rb:91:in `each'
+	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/jekyll-4.3.4/lib/jekyll/command.rb:91:in `process_with_graceful_fail'
+	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/jekyll-4.3.4/lib/jekyll/commands/serve.rb:86:in `block (2 levels) in init_with_program'
+	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `block in execute'
+	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `each'
+	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `execute'
+	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/mercenary-0.4.0/lib/mercenary/program.rb:44:in `go'
+	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/mercenary-0.4.0/lib/mercenary.rb:21:in `program'
+	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/jekyll-4.3.4/exe/jekyll:15:in `<top (required)>'
+	from /opt/homebrew/lib/ruby/gems/3.2.0/bin/jekyll:25:in `load'
+	from /opt/homebrew/lib/ruby/gems/3.2.0/bin/jekyll:25:in `<top (required)>'
+	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/bundler-2.2.3/lib/bundler/cli/exec.rb:63:in `load'
+	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/bundler-2.2.3/lib/bundler/cli/exec.rb:63:in `kernel_load'
+	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/bundler-2.2.3/lib/bundler/cli/exec.rb:28:in `run'
+	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/bundler-2.2.3/lib/bundler/cli.rb:497:in `exec'
+	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/bundler-2.2.3/lib/bundler/vendor/thor/lib/thor/command.rb:27:in `run'
+	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/bundler-2.2.3/lib/bundler/vendor/thor/lib/thor/invocation.rb:127:in `invoke_command'
+	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/bundler-2.2.3/lib/bundler/vendor/thor/lib/thor.rb:392:in `dispatch'
+	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/bundler-2.2.3/lib/bundler/cli.rb:30:in `dispatch'
+	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/bundler-2.2.3/lib/bundler/vendor/thor/lib/thor/base.rb:485:in `start'
+	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/bundler-2.2.3/lib/bundler/cli.rb:24:in `start'
+	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/bundler-2.2.3/exe/bundle:49:in `block in <top (required)>'
+	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/bundler-2.2.3/lib/bundler/friendly_errors.rb:130:in `with_friendly_errors'
+	from /opt/homebrew/lib/ruby/gems/3.2.0/gems/bundler-2.2.3/exe/bundle:37:in `<top (required)>'
+	from /opt/homebrew/Cellar/ruby@3.2/3.2.9_1/lib/ruby/3.2.0/rubygems.rb:319:in `load'
+	from /opt/homebrew/Cellar/ruby@3.2/3.2.9_1/lib/ruby/3.2.0/rubygems.rb:319:in `activate_and_load_bin_path'
+	from /opt/homebrew/opt/ruby@3.2/bin/bundle:25:in `<main>'

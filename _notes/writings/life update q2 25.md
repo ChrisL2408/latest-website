@@ -80,7 +80,7 @@ image: /assets/writing_photos/sleep.jpg
 
 - as some of you know i returned to singapore to complete 2 more months of military service. fun times, it was definitely "eye-opening" and i tried to take some positives from it. made some good friends, reinforced my discipline etc.
 - the 555 crew took a few month break as we were all travelling in the summer, but we successfully finished 9 iterations of our demo nights! so much is yet to come real soon as we have crazy things planned.
-- i've been doing a lot of writing and reflecting recently, it's been super therapeutic to jot down my thoughts. here are 2 of my favorite pieces i wrote this quarter: <a href="https://christianlevan.me/writing/front-row-ventures">front row ventures</a> <a href="https://christianlevan.me/army">army</a>.
+- i've been doing a lot of writing and reflecting recently, it's been super therapeutic to jot down my thoughts.
 
 <div style="max-width:900px; margin: 0 auto; padding: 0 10px; display: flex; justify-content: center;">
   <div style="width: 300px; max-width: 90%; margin-bottom: 20px;">

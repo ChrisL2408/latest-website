@@ -1,5 +1,5 @@
 ---
-title: what 2 years as a conscript soldier taught me.
+title: lessons from 2 years as a conscripted soldier.
 category: writing
 date: 2025-06-01
 subcategory: life lessons

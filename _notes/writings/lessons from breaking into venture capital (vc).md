@@ -1,5 +1,5 @@
 ---
-title: lessons from breaking into venture capital (vc)
+title: lessons from breaking into venture capital (vc) (wip)
 date: 2025-01-15
 category: writing
 subcategory: career

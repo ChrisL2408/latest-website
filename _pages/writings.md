@@ -16,9 +16,9 @@ A collection of thoughts, reflections, and essays. For more, check out my [Subst
 
 ## life lessons
 
-- [lessons from jiu-jitsu](/lessons-from-jujitsu)
+- [lessons from training brazilian jiu-jitsu (wip)](/lessons-from-jujitsu)
 - [lessons from 3 years at front row ventures.](https://christianlevan.me/writing/front-row-ventures)
-- [what 2 years as a conscript soldier taught me.](https://christianlevan.me/army)
+- [lessons from 2 years as a conscripted soldier.](https://christianlevan.me/army)
 
 ## life reminders
 

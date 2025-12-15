@@ -67,6 +67,8 @@ I'm going to be wrapping up the next few weeks reflecting on the wins and the lo
 
 If you're reading this and live in Toronto would love to grab a coffee with you in the new year!
 
+If you enjoyed this, you might like [[a little life update q2 25'.]].
+
 <style>
 /* Reset box model for this section */
 .photo-grid, .photo-grid * {

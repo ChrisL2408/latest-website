@@ -96,4 +96,4 @@ image: /assets/writing_photos/hanoistreet.jpeg
   </div>
 </div>
 
-If you enjoyed this, you might like [[a little life update q2 25'.]]
+If you enjoyed this, you might like [[a little life update q4 25']].

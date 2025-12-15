@@ -125,4 +125,4 @@ image: /assets/writing_photos/sleep.jpg
   </div>
 </div>
 
-If you enjoyed this, you might like [[a little life update q1 25'.]]
+If you enjoyed this, you might like [[a little life update q1 25'.]].

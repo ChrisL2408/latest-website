@@ -131,3 +131,8 @@ So no matter how strong your why is, how badly you want it, continue to work har
 The last thing I will say is at the end of the day _remember to have fun because_ if you don't like what you do and you don't have fun, 99% of the time you will not be able to put do your greatest work. Enjoy the process, don't get too caught up in the weeds of it and take a step back once in a while and appreciate how far you have come!
 
 I'm rooting for you and good luck!
+
+If you enjoyed this, you might like:
+- [[lessons from 2 years as a conscripted soldier.]]
+- [[lessons from training brazilian jiu-jitsu (wip)]]
+- [[lessons from breaking into venture capital (vc) (wip)]]

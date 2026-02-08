@@ -12,14 +12,11 @@ permalink: /
 <div style="max-width: 900px; margin: 0 auto; margin-bottom: 2rem;">
   <img src="{{ '/assets/home_photos/IMG_8265.JPG' | relative_url }}" alt="Christian Levan" style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px;">
 </div>
-<div style="text-align: justify; margin-bottom: 2rem;">
-  <p>Welcome to my personal corner of the internet! Here you'll find a curated collection of my writing, projects, and resources, alongside a glimpse into my journey through startups, venture capital, and beyond. Whether you're here to connect, collaborate, or just browse, I'm glad you stopped by.</p>
-</div>
 
 <div style="text-align: justify;">
   <p>I'm currently running Growth at <a href="https://nationgraph.com">NationGraph</a> based in Toronto and hosting cool events at <a href="https://x.com/555studio_">555</a>.</p>
 
-  <p>Previously, I was a VC investor at <a href="https://www.panache.vc/panache-team/christian-levan">Panache Ventures</a>, an early-stage fund backing pre-seed and seed Canadian-rooted startups. Before that, I spent a few years going deep down the startup and VC rabbit hole — building products at <a href="https://altaml.com/">AltaML's</a> Venture Studio (founded by Investopedia's creator), investing in Seed to Series B at funds like <a href="https://www.whitestarcapital.com/">White Star Capital</a> and <a href="https://www.inovia.vc/">Inovia Capital</a>, and working in biz ops roles at startups like <a href="https://optionality.ai/">Optionality AI</a> & <a href="https://joinground.com/">Ground AI</a>.</p>
+  <p>Previously, I was a VC investor at <a href="https://www.panache.vc/panache-team/christian-levan">Panache Ventures</a>, an early-stage fund backing pre-seed and seed Canadian-rooted startups. Before that, I spent a few years going deep down the startup and VC rabbit hole, building products at <a href="https://altaml.com/">AltaML's</a> Venture Studio (founded by Investopedia's creator), investing in Seed to Series B at funds like <a href="https://www.whitestarcapital.com/">White Star Capital</a> and <a href="https://www.inovia.vc/">Inovia Capital</a>, and working in biz ops roles at startups like <a href="https://optionality.ai/">Optionality AI</a> & <a href="https://joinground.com/">Ground AI</a>.</p>
 
   <p>I also spent 2 years serving in the Singapore Military attached to the <a href="https://en.wikipedia.org/wiki/Singapore_Artillery">Singapore Artillery</a> as a Motor Transport Operator & an Emergency Ambulance Operator.</p>
   

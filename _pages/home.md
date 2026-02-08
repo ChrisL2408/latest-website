@@ -20,7 +20,7 @@ permalink: /
 
   <p>I also spent 2 years serving in the Singapore Military attached to the <a href="https://en.wikipedia.org/wiki/Singapore_Artillery">Singapore Artillery</a> as a Motor Transport Operator & an Emergency Ambulance Operator.</p>
   
-  <p>When I'm not obsessing over startups, I'm usually getting submitted in BJJ (somehow still addicted), suffering through another Chelsea FC season, running in the city to clear my head, or geeking out over watches. I studied Economics, Computer Science & Entrepreneurship at McGill, which mostly taught me I'd rather build something real than debate theory all day.</p>
+  <p>When I'm not obsessing over startups, I'm training BJJ (purple belt, somehow still addicted), being forced to run half marathons by my girlfriend, suffering through another Chelsea FC season, or geeking out over watches. I studied Economics, Computer Science & Entrepreneurship at McGill, which mostly taught me I'd rather build something real than debate theory all day.</p>
 </div>
 
 **A few links to explore**

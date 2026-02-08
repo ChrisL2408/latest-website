@@ -34,13 +34,11 @@ permalink: /
 <strong>Recently</strong>
 
 <ul>
-  {% assign recent_writings = site.notes | where: "category", "writing" | where_exp: "note", "note.date != nil and note.date != '' and note.title contains '(wip)' == false" | sort: "date" | reverse %}
+  {% assign recent_writings = site.notes | where: "category", "writing" | where_exp: "note", "note.date != nil and note.date != ''" | where_exp: "note", "note.title contains '(wip)' == false" | sort: "date" | reverse %}
   {% for note in recent_writings limit: 5 %}
-    {% unless note.title contains "(wip)" %}
     <li>
       <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
     </li>
-    {% endunless %}
   {% endfor %}
 </ul>
 

@@ -111,10 +111,6 @@ permalink: /
 }
 </style>
 
-**Subscribe to my Substack**
-
-<a href="https://substack.com/@christianlevan1">Read more of my writing on Substack</a>
-
 <style>
   .wrapper {
     max-width: 46em;

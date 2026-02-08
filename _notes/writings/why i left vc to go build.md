@@ -58,3 +58,5 @@ I will forever love the venture job. Helping and serving founders in the last fe
 The biggest lesson from all of this for me was to trust your gut. When I knew that I wanted to leave venture, it felt scary. I was walking away from a job I loved, a network I'd built, and a path that was working. But deep down, I knew it was right. Sometimes the scariest decisions are the ones you need to make most.
 
 Two weeks into building at <a href="https://nationgraph.com">NationGraph</a>, I'm reminded daily why I made this move. The energy, the alignment, the mission, it all validates what my gut was telling me months ago. When you make decisions aligned with who you want to become, things click into place.
+
+If you enjoyed this, you might like [[lessons from 3 years at front row ventures.]]

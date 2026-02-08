@@ -134,6 +134,7 @@ I'm rooting for you and good luck!
 
 If you enjoyed this, you might like:
 
+- [[why i left vc to go build.]]
 - [[lessons from 2 years as a conscripted soldier.]]
 - [[lessons from training brazilian jiu-jitsu (wip)]]
 - [[lessons from breaking into venture capital (vc) (wip)]]

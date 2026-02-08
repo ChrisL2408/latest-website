@@ -31,17 +31,6 @@ permalink: /
 <br>
 • <a href="/resources" class="internal-link">Resources</a>
 
-<strong>Recently</strong>
-
-<ul>
-  {% assign recent_writings = site.notes | where: "category", "writing" | where_exp: "note", "note.date != nil and note.date != ''" | where_exp: "note", "note.title contains '(wip)' == false" | sort: "date" | reverse %}
-  {% for note in recent_writings limit: 5 %}
-    <li>
-      <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
 **Featured In**
 
 <div class="featured-item">

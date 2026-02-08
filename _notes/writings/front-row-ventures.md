@@ -133,6 +133,7 @@ The last thing I will say is at the end of the day _remember to have fun because
 I'm rooting for you and good luck!
 
 If you enjoyed this, you might like:
+
 - [[lessons from 2 years as a conscripted soldier.]]
 - [[lessons from training brazilian jiu-jitsu (wip)]]
 - [[lessons from breaking into venture capital (vc) (wip)]]

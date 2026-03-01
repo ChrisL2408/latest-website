@@ -81,7 +81,7 @@ what a start to 2026. new city, new job, new chapter and honestly it's been ever
 - keep building. keep growing. there's a lot i want to do this year on the personal brand side, more reflections, more writing, more sharing what i'm learning.
 - if you're in toronto, let's grab a coffee, always down to meet new people.
 
-keep at it and see you all soon!
+still work to be done.
 
 If you enjoyed this, you might like [[a little life update q4 25']].
 

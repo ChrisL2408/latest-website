@@ -10,6 +10,7 @@ A collection of thoughts, reflections, and essays. For more, check out my [Subst
 
 ## life updates
 
+- [a little life update q1 26'.](/life-update-q1-26)
 - [a little life update q4 25'](/life-update-q4-25)
 - [a little life update q2 25'.](https://christianlevan.me/life-update-q2-25)
 - [a little life update q1 25'.](https://christianlevan.me/life-update)

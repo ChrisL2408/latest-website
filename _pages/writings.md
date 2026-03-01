@@ -8,6 +8,7 @@ permalink: /writing/
 
 A collection of thoughts, reflections, and essays. For more, check out my [Substack](https://substack.com/@clevan).
 
+
 ## life updates
 
 - [a little life update q1 26'.](/life-update-q1-26)

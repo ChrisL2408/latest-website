@@ -29,17 +29,17 @@ what a start to 2026. new city, new job, new chapter and honestly it's been ever
   </div>
 </div>
 
-### random updates & projects
+### projects
 
 - big news: 555 was on stage at northstar! super proud moment for us and a huge milestone for the crew.
 - season 2 is officially in the works. we have an event dropping on **march 13th** stay tuned, it's going to be a good one.
 
-<div class="photo-grid">
-  <div class="photo-item">
+<div class="photo-grid" style="justify-content: center; gap: 20px;">
+  <div class="photo-item" style="width: 45%;">
     <img src="/assets/writing_photos/northstar.jpeg" alt="555 at northstar" class="photo-img">
     <em class="photo-caption">555 on stage at northstar</em>
   </div>
-  <div class="photo-item">
+  <div class="photo-item" style="width: 45%;">
     <img src="/assets/writing_photos/dj_booth.jpeg" alt="dj at northstar" class="photo-img" style="object-position: top;">
     <em class="photo-caption">vilakshan on the set</em>
   </div>
@@ -58,7 +58,7 @@ what a start to 2026. new city, new job, new chapter and honestly it's been ever
     <em class="photo-caption">setting up at the office</em>
   </div>
   <div class="photo-item" style="width: 45%;">
-    <img src="/assets/writing_photos/nationgraph_office.jpeg" alt="nationgraph office" class="photo-img">
+    <img src="/assets/writing_photos/nationgraph_office.jpeg" alt="nationgraph office" class="photo-img" style="object-position: bottom;">
     <em class="photo-caption">the team at work</em>
   </div>
 </div>

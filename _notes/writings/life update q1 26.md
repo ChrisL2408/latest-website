@@ -52,12 +52,12 @@ what a start to 2026. new city, new job, new chapter and honestly it's been ever
 - genuinely, hand on heart, this has been the most fun i've ever had working. the team is absolutely insane and i pinch myself every day that i get to work alongside these people.
 - so grateful for this opportunity and excited to keep learning, especially diving deep into product marketing.
 
-<div class="photo-grid">
-  <div class="photo-item" style="width: calc(50% - 10px);">
+<div class="photo-grid" style="justify-content: center; gap: 20px;">
+  <div class="photo-item" style="width: 45%;">
     <img src="/assets/writing_photos/nationgraph_banner.jpeg" alt="nationgraph banner" class="photo-img">
     <em class="photo-caption">setting up at the office</em>
   </div>
-  <div class="photo-item" style="width: calc(50% - 10px);">
+  <div class="photo-item" style="width: 45%;">
     <img src="/assets/writing_photos/nationgraph_office.jpeg" alt="nationgraph office" class="photo-img">
     <em class="photo-caption">the team at work</em>
   </div>

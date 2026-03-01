@@ -72,7 +72,7 @@ what a start to 2026. new city, new job, new chapter and honestly it's been ever
 <div class="photo-grid">
   <div class="photo-item" style="width: 100%; max-width: 400px; margin: 0 auto 20px auto;">
     <img src="/assets/writing_photos/toronto_bjj.jpeg" alt="toronto bjj" class="photo-img" style="height: auto;">
-    <em class="photo-caption">new gym, same grind</em>
+    <em class="photo-caption">new gym!</em>
   </div>
 </div>
 

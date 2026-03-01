@@ -53,11 +53,11 @@ what a start to 2026. new city, new job, new chapter and honestly it's been ever
 - so grateful for this opportunity and excited to keep learning, especially diving deep into product marketing.
 
 <div class="photo-grid">
-  <div class="photo-item">
+  <div class="photo-item" style="width: calc(50% - 10px);">
     <img src="/assets/writing_photos/nationgraph_banner.jpeg" alt="nationgraph banner" class="photo-img">
     <em class="photo-caption">setting up at the office</em>
   </div>
-  <div class="photo-item">
+  <div class="photo-item" style="width: calc(50% - 10px);">
     <img src="/assets/writing_photos/nationgraph_office.jpeg" alt="nationgraph office" class="photo-img">
     <em class="photo-caption">the team at work</em>
   </div>

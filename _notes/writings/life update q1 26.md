@@ -48,7 +48,7 @@ what a start to 2026. new city, new job, new chapter and honestly it's been ever
 ### career
 
 - the big move: i'm now in toronto full-time working at [nationgraph](https://nationgraph.com).
-- we just closed our **series a, [$18m usd led by menlo ventures](https://www.govtech.com/biz/ai-procurement-intel-platform-nationgraph-raises-18m)**. it's been wild to be part of this journey from the jump and i couldn't be more excited about what's ahead.
+- we just closed our **series a, [$18m usd led by menlo ventures](https://menlovc.com/perspective/nationgraph-leveling-the-playing-field-in-government-procurement/)**. it's been wild to be part of this journey from the jump and i couldn't be more excited about what's ahead.
 - genuinely, hand on heart, this has been the most fun i've ever had working. the team is absolutely insane and i pinch myself every day that i get to work alongside these people.
 - so grateful for this opportunity and excited to keep learning, especially diving deep into product marketing.
 

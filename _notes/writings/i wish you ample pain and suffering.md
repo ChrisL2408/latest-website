@@ -20,8 +20,6 @@ the dark moments: friendship and relationship breakups. big failures. goals i wo
 
 in those moments it's easy to feel like the pain has no purpose. but every single one of those moments became fuel. every failure made me hungrier. every loss made me want to prove something. every moment things didn't go my way forced me to find a better way.
 
-seneca, the roman stoic philosopher, said it well: _"fire tests gold, suffering tests brave men."_
-
 what i keep coming back to is the proportionality of it all. the bigger the suffering, the bigger the win on the other side. the larger the hardship, the larger the celebration. the things that hurt the most have produced the biggest leaps forward.
 
 i'm not afraid of pain anymore. i can't wait to be challenged again, to fail again, because i know what comes after. the glory hits different when you know what it cost you.

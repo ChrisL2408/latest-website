@@ -1,5 +1,5 @@
 ---
-title: i wish you ample pain and suffering.
+title: i wish you ample doses of pain and suffering.
 date: 2026-03-03
 category: writing
 subcategory: life lessons

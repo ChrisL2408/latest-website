@@ -18,6 +18,7 @@ A collection of thoughts, reflections, and essays. For more, check out my [Subst
 
 ## life lessons
 
+- [i wish you ample pain and suffering.](/i-wish-you-ample-pain-and-suffering)
 - [why i left vc to go build.](/why-i-left-vc-to-go-build)
 - [lessons from 3 years at front row ventures.](https://christianlevan.me/writing/front-row-ventures)
 - [lessons from 2 years as a conscripted soldier.](https://christianlevan.me/army)

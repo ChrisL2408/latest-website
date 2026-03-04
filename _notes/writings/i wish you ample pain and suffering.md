@@ -18,8 +18,6 @@ his full quote: _"greatness comes from character. and character isn't formed out
 
 i've been thinking about this quote a lot. and as i sit here reflecting on the last decade of my life, from 2016 to 2026, i think i finally understand what he means.
 
----
-
 the last 10 years have had some really dark moments for me.
 
 friendship and relationship breakups that shook my sense of self. big failures i didn't see coming. goals i worked hard for and didn't reach. injuries that kept me off the things i loved. stretches of very low self-esteem, from bullying and from constantly measuring myself against everyone around me. periods where i genuinely didn't know who i was or where i was going.
@@ -31,8 +29,6 @@ but here's what i've come to realise: every single one of those moments became f
 the army taught me what real discomfort feels like. the injuries taught me patience and humility. the losses taught me that time is the only thing i can never get back. the comparisons i tortured myself with eventually pushed me to stop looking sideways and start looking forward. even the bullying, as much as it hurt, lit a fire in me that i don't think anything else could have.
 
 none of that growth happens without the suffering. none of it.
-
----
 
 seneca said it well: _"fire tests gold, suffering tests brave men."_
 

@@ -22,12 +22,13 @@ in those moments it's easy to feel like the pain has no purpose. but every singl
 
 what i keep coming back to is the proportionality of it all. the bigger the suffering, the bigger the win on the other side. the larger the hardship, the larger the celebration. the things that hurt the most have produced the biggest leaps forward.
 
-i'm not afraid of pain anymore. i can't wait to be challenged again, to fail again, because i know what comes after. the glory hits different when you know what it cost you.
+i can’t wait to be challenged again, to fail again, because i know what comes after. the glory hits different when you know what it cost you.
 
 so if you're in a painful moment right now, don't waste it. the pain is the work.
 
-i wish you ample pain and suffering. i mean that with love.
+and because of that i wish you ample pain and suffering. i mean that with love.
 
 If you enjoyed this, you might like:
+
 - [[lessons from 2 years as a conscripted soldier.]]
 - [[a reminder in hard times]]

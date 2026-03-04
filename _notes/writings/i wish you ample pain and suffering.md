@@ -30,7 +30,7 @@ the army taught me what real discomfort feels like. the injuries taught me patie
 
 none of that growth happens without the suffering. none of it.
 
-seneca, the roman stoic philosopher who lived through exile, political persecution and immense personal loss, said it well: _"fire tests gold, suffering tests brave men."_
+seneca, the roman stoic philosopher, said it well: _"fire tests gold, suffering tests brave men."_
 
 and the proportionality is something i keep coming back to. the bigger the suffering, the bigger the win on the other side. the larger the hardship, the larger the celebration when you come out of it. they are almost perfectly proportional. the things that hurt the most in my life have also produced the biggest leaps forward, in who i am, in what i can handle, in how far i've come.
 

@@ -18,6 +18,7 @@ A collection of thoughts, reflections, and essays. For more, check out my [Subst
 
 ## life lessons
 
+- [in search of meaning.](/in-search-of-meaning)
 - [the one habit you can't track.](/the-one-habit-you-cant-track)
 - [i wish you ample pain and suffering.](/i-wish-you-ample-pain-and-suffering)
 - [why i left vc to go build.](/why-i-left-vc-to-go-build)

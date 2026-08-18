@@ -54,11 +54,9 @@ Had such a fun time re-starting 555 again. We hosted two events, our Classic Dem
 
 This is probably my biggest announcement yet. After an incredible journey as an investor at Panache Ventures, I'll be moving on in the new year. Since joining the firm in February, I've had the privilege of working alongside one of the brightest and most inspiring teams I've ever met. Making this decision wasn't easy it was, without a doubt, the riskiest choice I've made so far. Venture Capital has been my world for the past few years, and I know I'll miss it deeply (don't worry, I'll be back!). But I'm genuinely excited to take on a new challenge that pushes me outside my comfort zone and helps me grow even more. Plus, I'm thrilled to be moving to Toronto, a city whose energy captivated me a year ago, and I just knew I had to call it home.
 
-<div style="max-width:900px; margin: 0 auto; padding: 0 10px; display: flex; justify-content: center;">
-  <div class="career-photo-container">
-    <img src="/assets/writing_photos/gintoki.jpg" alt="gintoki" class="career-photo-img">
-    <em class="photo-caption">onto the next chapter</em>
-  </div>
+<div class="figure">
+  <img src="/assets/writing_photos/gintoki.jpg" alt="gintoki">
+  <em>onto the next chapter</em>
 </div>
 
 ### what's next
@@ -69,80 +67,3 @@ If you're reading this and live in Toronto would love to grab a coffee with you 
 
 If you enjoyed this, you might like [[a little life update q2 25'.]].
 
-<style>
-/* Reset box model for this section */
-.photo-grid, .photo-grid * {
-  box-sizing: border-box;
-}
-
-.photo-grid {
-  width: 100%; /* Respect parent container width */
-  margin: 20px auto;
-  padding: 0;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  gap: 20px;
-}
-
-.photo-item {
-  width: calc(33.333% - 14px); /* 3 columns with gap consideration */
-  display: flex;
-  flex-direction: column;
-}
-
-.photo-img {
-  width: 100%;
-  height: 250px; /* Reduced height for better fit */
-  border-radius: 8px;
-  object-fit: cover;
-  display: block;
-}
-
-.photo-caption {
-  display: block;
-  text-align: center;
-  margin-top: 8px;
-  font-size: 14px;
-  line-height: 1.4;
-  color: #666;
-}
-
-.career-photo-container {
-  width: 100%;
-  max-width: 500px;
-  margin: 0 auto 20px auto;
-}
-
-.career-photo-img {
-  width: 100%;
-  height: auto;
-  border-radius: 8px;
-  display: block;
-}
-
-/* Tablet Override (2 columns) */
-@media screen and (max-width: 900px) {
-  .photo-item {
-    width: calc(50% - 10px);
-  }
-}
-
-/* Mobile Override (1 column) */
-@media screen and (max-width: 600px) {
-  .photo-grid {
-    flex-direction: column;
-    gap: 30px;
-  }
-  
-  .photo-item {
-    width: 100%;
-    margin-bottom: 0;
-  }
-
-  .photo-img {
-    height: auto;
-    aspect-ratio: 4/3; /* Standard photo aspect ratio */
-  }
-}
-</style>

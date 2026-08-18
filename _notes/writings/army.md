@@ -6,11 +6,9 @@ subcategory: life lessons
 image: /assets/writing_photos/army1.jpeg
 ---
 
-<div style="max-width:800px; margin: 0 auto; display: flex; justify-content: center;">
-  <div style="width: 70%; min-width: 250px; margin-bottom: 15px;">
-    <img src="/assets/writing_photos/army1.jpeg" alt="army" style="width: 100%; height: auto; border-radius: 6px; object-fit: cover;">
-    <em style="display: block; text-align: center; font-size: 0.9em;">Taken during my last ever outfield training.</em>
-  </div>
+<div class="figure">
+  <img src="/assets/writing_photos/army1.jpeg" alt="army">
+  <em>Taken during my last ever outfield training.</em>
 </div>
 
 It was around midnight. My first troop lift mission: 15 soldiers for an overnight operation. Pitch black except for my 5-ton truck's low beam cutting through the darkness. The terrain was brutal, jagged rocks, deep craters, and uneven ground that made every meter feel like a battle. No street lights, no markers, just pure darkness and the occasional sound of artillery fire echoing through the night like distant thunder.
@@ -27,11 +25,9 @@ I get asked a lot what I got out of my military service. Here are some major les
 
 _"Accept humbly, let go easily."_ – Marcus Aurelius
 
-<div style="max-width:800px; margin: 0 auto; display: flex; justify-content: center;">
-  <div style="width: 85%; min-width: 350px; margin-bottom: 15px;">
-    <img src="/assets/writing_photos/army2.jpeg" alt="army2" style="width: 100%; height: auto; border-radius: 6px; object-fit: cover;">
-    <em style="display: block; text-align: center; font-size: 0.9em;">Section mates and my Sergeant from Basic Military Training graduation.</em>
-  </div>
+<div class="figure">
+  <img src="/assets/writing_photos/army2.jpeg" alt="army2">
+  <em>Section mates and my Sergeant from Basic Military Training graduation.</em>
 </div>
 
 Graduating high school meant leaving behind the familiar routine I'd grown comfortable with. My friends were moving on to university while I was headed to military service: two completely different paths that would naturally create distance between us.
@@ -48,11 +44,9 @@ Military life forced me to embrace new routines, new people, and a new version o
 
 _"It is not what happens to you, but how you react to it that matters."_ – Epictetus
 
-<div style="max-width:800px; margin: 0 auto; display: flex; justify-content: center;">
-  <div style="width: 70%; min-width: 250px; margin-bottom: 15px;">
-    <img src="/assets/writing_photos/army3.jpeg" alt="army3" style="width: 100%; height: auto; border-radius: 6px; object-fit: cover;">
-    <em style="display: block; text-align: center; font-size: 0.9em;">Supporting National Day Parade.</em>
-  </div>
+<div class="figure">
+  <img src="/assets/writing_photos/army3.jpeg" alt="army3">
+  <em>Supporting National Day Parade.</em>
 </div>
 
 After completing the rough 8 weeks of Basic Military Training, I was posted to an Artillery unit as a Motor Transport Operator. At first, I was extremely disappointed because I wanted to be posted to command school, but I was not deemed fit enough at the time due to past history of health issues. For a prolonged period of time, I was distraught and upset as I was not given the opportunities I so deperately wanted for a while.
@@ -70,11 +64,9 @@ The same applies to your life. You might not get into the degree you wanted, or 
 _"The grass is always greener where you water it."_  
 — Neil Barringham
 
-<div style="max-width:800px; margin: 0 auto; display: flex; justify-content: center;">
-  <div style="width: 70%; min-width: 250px; margin-bottom: 15px;">
-    <img src="/assets/writing_photos/army5.jpeg" alt="army5" style="width: 100%; height: auto; border-radius: 6px; object-fit: cover;">
-    <em style="display: block; text-align: center; font-size: 0.9em;">Having the "time of my life!"</em>
-  </div>
+<div class="figure">
+  <img src="/assets/writing_photos/army5.jpeg" alt="army5">
+  <em>Having the "time of my life!"</em>
 </div>
 
 In high school, I was constantly comparing myself to others. I'd look at my classmates' grades, their achievements, their social circles, and measure my worth against theirs. This comparison game made me miserable. I was never good enough because there was always someone better at something. The same destructive habit followed me into the army.
@@ -93,9 +85,9 @@ The army taught me that true confidence comes from focusing on your own journey 
 
 _"It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is most adaptable to change."_ — Charles Darwin
 
-<div style="max-width:550px; margin: 0 auto;">
-  <img src="/assets/writing_photos/army4.jpeg" alt="army4" style="width: 100%; height: auto; margin: 15px 0; border-radius: 6px; object-fit: cover;">
-  <em style="display: block; text-align: center; font-size: 0.9em;">A few awards after my 2 year service.</em>
+<div class="figure">
+  <img src="/assets/writing_photos/army4.jpeg" alt="army4">
+  <em>A few awards after my 2 year service.</em>
 </div>
 
 As a third culture kid, I was born in Japan and moved around a lot as a child. Although I spent most of my childhood I could remember in Singapore, I wasn't fully Singaporean and wasn't indoctrinated in the same schooling or mindset as most Singaporean kids growing up.
@@ -115,11 +107,9 @@ The faster you overcome that activation energy and get things going, the faster 
 _"He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has."_  
 — Epictetus
 
-<div style="max-width:800px; margin: 0 auto; display: flex; justify-content: center;">
-  <div style="width: 70%; min-width: 250px; margin-bottom: 15px;">
-    <img src="/assets/writing_photos/army6.jpeg" alt="army6" style="width: 100%; height: auto; border-radius: 6px; object-fit: cover;">
-    <em style="display: block; text-align: center; font-size: 0.9em;">Most important people in the world to me.</em>
-  </div>
+<div class="figure">
+  <img src="/assets/writing_photos/army6.jpeg" alt="army6">
+  <em>Most important people in the world to me.</em>
 </div>
 
 Lastly, but most importantly, I learned the sole most important thing that the 2 years of military service have taught me: to appreciate the little things in life. When you're stripped of your usual comforts and routines, you begin to value the simple pleasures a good meal, a comfortable bed, a hot shower, or even just a few minutes of peace and quiet.

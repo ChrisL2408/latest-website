@@ -6,8 +6,8 @@ subcategory: life lessons
 image: /assets/writing_photos/in_search_of_meaning.jpeg
 ---
 
-<div style="max-width:600px; margin: 0 auto 30px auto;">
-  <img src="/assets/writing_photos/in_search_of_meaning.jpeg" alt="in search of meaning" style="width: 100%; height: auto; border-radius: 6px;">
+<div class="figure">
+  <img src="/assets/writing_photos/in_search_of_meaning.jpeg" alt="in search of meaning">
 </div>
 
 some people just know. they wake up one day and they have this burning problem they need to solve. elon musk wanted to make humanity multi-planetary. malala yousafzai nearly died for girls' education and kept going. they had a calling. something so deep and so clear that their entire life orbited around it.

@@ -16,14 +16,14 @@ After these 3 years, it has been a magical journey for me. I really owe FRV a lo
 
 _If you are reading this and are either thinking of joining or starting out at FRV, I would love to share with you my lessons & core experiences that made this so magical for me and show you how to make the most out of it._
 
-<div style="max-width:900px; margin: 0 auto; display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <div style="width: 45%; margin-bottom: 20px;">
-    <img src="/assets/writing_photos/frv_1.jpeg" alt="FRV" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px;">
-    <em style="display: block; text-align: center;">FRV Retreat</em>
+<div class="photo-grid">
+  <div class="photo-item">
+    <img src="/assets/writing_photos/frv_1.jpeg" alt="FRV" class="photo-img">
+    <em class="photo-caption">FRV Retreat</em>
   </div>
-  <div style="width: 45%; margin-bottom: 20px;">
-    <img src="/assets/writing_photos/espace.jpeg" alt="Espace" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px;">
-    <em style="display: block; text-align: center;">At the office with the other Directors</em>
+  <div class="photo-item">
+    <img src="/assets/writing_photos/espace.jpeg" alt="Espace" class="photo-img">
+    <em class="photo-caption">At the office with the other Directors</em>
   </div>
 </div>
 
@@ -31,8 +31,8 @@ _If you are reading this and are either thinking of joining or starting out at F
 
 My first ever coffee chat reach out when I was a naive first year at McGill was to this fellow economics student who was in his senior year called Saud. At that time I was in a completely different program and was balancing between economics, cognitive sciences, philosophy and deciding which I should pursue.
 
-<div style="max-width:600px; margin: 0 auto;">
-  <img src="/assets/writing_photos/frv.png" alt="Front Row Ventures" style="width: 100%; height: auto; margin: 20px 0; border-radius: 8px;">
+<div class="figure">
+  <img src="/assets/writing_photos/frv.png" alt="Front Row Ventures">
 </div>
 
 By pure coincidence, I just ran into Saud's LinkedIn profile and decided to just "shoot my shot" to see how he was thinking about his career past McGill with an economics degree. He was also involved with this organization called "Front Row Ventures," which seemed pretty interesting to me at the time. I won't lie, mentioning "strong interest in VC" in that initial reach out was half a bluff but seemed to have paid off.
@@ -49,9 +49,9 @@ I remember telling my partner, "After a year of learning the ropes, my goal is t
 
 Luckily enough, I got in and from then I knew that this was just the start:
 
-<div style="max-width:600px; margin: 0 auto;">
-  <img src="/assets/writing_photos/saud.png" alt="FRV Acceptance" style="width: 100%; height: auto; margin: 20px 0; border-radius: 8px;">
-  <em style="display: block; text-align: center;">The acceptance email that changed everything</em>
+<div class="figure">
+  <img src="/assets/writing_photos/saud.png" alt="FRV Acceptance">
+  <em>The acceptance email that changed everything</em>
 </div>
 
 ### Lesson 2: Be Reliable & Maximise your "Luck"
@@ -68,9 +68,9 @@ This reliability built leadership trust and opened doors to the investment side.
 
 **Key lesson: Reliability builds trust, and creating your own luck means showing up where opportunities happen. That two-minute investor conversation led to an internship precisely because I put myself in the right place at the right time and mazimised your "luck".**
 
-<div style="max-width:600px; margin: 0 auto;">
-  <img src="/assets/writing_photos/office.jpeg" alt="Office" style="width: 100%; height: auto; margin: 20px 0; border-radius: 8px;">
-  <em style="display: block; text-align: center;">Event at ESPACE CDPQ</em>
+<div class="figure">
+  <img src="/assets/writing_photos/office.jpeg" alt="Office">
+  <em>Event at ESPACE CDPQ</em>
 </div>
 
 ### Lesson 3: Once you get your foot in, _remember to execute_.
@@ -95,9 +95,9 @@ Relating back to FRV, I knew that once I got my "foot in", I was off to the race
 
 **Key lesson: Once you get your foot in, remember that the work has only begun and you need to prove your place at the table amongst other people at FRV. To do your best work efficiently you need to be able to internally audit your why, how badly you want to achieve your specific goal and create systems for you to execute more efficiently in your day to day**
 
-<div style="max-width:600px; margin: 0 auto;">
-  <img src="/assets/writing_photos/cal.png" alt="Calendar" style="width: 100%; height: auto; margin: 20px 0; border-radius: 8px;">
-  <em style="display: block; text-align: center;">A more or less accurate representation of how I blocked my calendar to balance all my life items with color coded items</em>
+<div class="figure">
+  <img src="/assets/writing_photos/cal.png" alt="Calendar">
+  <em>A more or less accurate representation of how I blocked my calendar to balance all my life items with color coded items</em>
 </div>
 
 ### Lesson 4: Get to know everyone (I really mean it).
@@ -108,9 +108,9 @@ I personally got to make some of my best friends to date from FRV (Shoutout to K
 
 **Key lesson: Go talk to as many people as you can in your FRV batch or alumni, these are super powerful present/future connections but also potential best friends for many years to come. You also never know when someone might be of help or when you will be of help for someone. VC is a relationship-based game and having these nodes of connections helps a ton in the future!**
 
-<div style="max-width:600px; margin: 0 auto;">
-  <img src="/assets/writing_photos/team23.jpeg" alt="Team 2023" style="width: 100%; height: auto; margin: 20px 0; border-radius: 8px;">
-  <em style="display: block; text-align: center;">Having fun with the team!</em>
+<div class="figure">
+  <img src="/assets/writing_photos/team23.jpeg" alt="Team 2023">
+  <em>Having fun with the team!</em>
 </div>
 
 ### Lesson 5: Enjoy the journey because it's a marathon not a sprint!
@@ -121,9 +121,9 @@ So no matter how strong your why is, how badly you want it, continue to work har
 
 **Key lesson: Work hard, but also take a step back every now and then and reset yourself. Contrary to popular belief you won't work twice as harder if you are four times as tired from potential burnout**.
 
-<div style="max-width:600px; margin: 0 auto;">
-  <img src="/assets/writing_photos/retreat.jpeg" alt="FRV Retreat" style="width: 100%; height: auto; margin: 20px 0; border-radius: 8px;">
-  <em style="display: block; text-align: center;">Finding rainbows in the journey, a reminder to enjoy the moments along the way</em>
+<div class="figure">
+  <img src="/assets/writing_photos/retreat.jpeg" alt="FRV Retreat">
+  <em>Finding rainbows in the journey, a reminder to enjoy the moments along the way</em>
 </div>
 
 ### Conclusion

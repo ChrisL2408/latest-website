@@ -6,8 +6,6 @@ permalink: /projects/
 
 # Projects
 
-A collection of projects, experiments, and things I've built.
+Things I've built, and the stories behind them.
 
-## community building
-
-- [555 nights (origin story)](https://christianlevan.me/555)
+- [555 nights (origin story)](/555) — how a community night in Montreal came together, from an idea to a room full of people.

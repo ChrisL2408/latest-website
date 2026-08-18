@@ -6,13 +6,13 @@ subcategory: life lessons
 image: /assets/writing_photos/pain_suffering.jpeg
 ---
 
-<div style="max-width:600px; margin: 0 auto 30px auto;">
-  <img src="/assets/writing_photos/pain_suffering.jpeg" alt="pain and suffering" style="width: 100%; height: auto; border-radius: 6px;">
+<div class="figure">
+  <img src="/assets/writing_photos/pain_suffering.jpeg" alt="pain and suffering">
 </div>
 
 _"I wish upon you ample doses of pain and suffering."_
 
-That was jensen huang, ceo of nvidia, speaking to stanford students in 2024. his full quote: _"greatness comes from character. and character isn't formed out of smart people, it's formed out of people who suffered."_
+That was Jensen Huang, CEO of Nvidia, speaking to stanford students in 2024. his full quote: _"greatness comes from character. and character isn't formed out of smart people, it's formed out of people who suffered."_
 
 Reflecting on the last decade of my life, from 2016 to 2026, i finally understand what he means.
 

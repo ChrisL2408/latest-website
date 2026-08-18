@@ -6,8 +6,8 @@ subcategory: life lessons
 image: /assets/writing_photos/be_delusional.jpeg
 ---
 
-<div style="max-width:600px; margin: 0 auto 30px auto;">
-  <img src="/assets/writing_photos/be_delusional.jpeg" alt="be delusional" style="width: 100%; height: auto; border-radius: 6px;">
+<div class="figure">
+  <img src="/assets/writing_photos/be_delusional.jpeg" alt="be delusional">
 </div>
 
 as i was jotting down my habits for the next month, i sat down to look at all the other habits i had successfully completed, failed, or stuck with. trying to wake up early. journaling. taking vitamins. reading x amount of pages in a day etc.

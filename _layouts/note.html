@@ -2,34 +2,18 @@
 layout: default
 ---
 
-<head>
-  <!-- Twitter Card Meta Tags -->
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="{{ page.title }}" />
-  <meta name="twitter:description" content="{{ page.description }}" />
-  <meta name="twitter:image" content="{{ site.url }}{{ page.image }}" />
-  <meta name="twitter:image:alt" content="{{ page.image_alt }}" />
-</head>
-
 <article>
-  <div>
-    <h1>{{ page.title }}</h1>
-    <time datetime="{{ page.last_modified_at | date_to_xmlschema }}"
-      >{% if page.type != 'pages' %} Last updated on {{ page.last_modified_at |
-      date: "%B %-d, %Y" }} {% endif %}
-    </time>
-  </div>
+  <h1>{{ page.title }}</h1>
+  {% if page.type != 'pages' %}
+  <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">
+    {{ page.last_modified_at | date: "%B %-d, %Y" }}
+  </time>
+  {% endif %}
 
-  <div id="notes-entry-container" style="text-align: justify">
-    <content> {{ content }} </content>
-  </div>
+  <div id="notes-entry-container">{{ content }}</div>
 </article>
 
-<hr />
-
-<p>
-  Here are all of Chris' writings, along with their links, visualized as a
-  graph.
-</p>
-
-{% include notes_graph.html %}
+<details class="graph-toggle">
+  <summary>See how this connects to everything else</summary>
+  {% include notes_graph.html %}
+</details>

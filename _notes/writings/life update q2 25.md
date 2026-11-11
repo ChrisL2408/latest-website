@@ -4,6 +4,7 @@ date: 2025-06-01
 category: writing
 subcategory: life updates
 image: /assets/writing_photos/sleep.jpg
+description: "so this last quarter has been crazy to say the least! To sum it up quick: ran my first official half-marathon, passed my final cs exam, graduated, spent…"
 ---
 
 ## what's been happening

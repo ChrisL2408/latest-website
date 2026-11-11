@@ -4,6 +4,7 @@ date: 2025-12-08
 category: writing
 subcategory: life updates
 image: /assets/writing_photos/gintoki.jpg
+description: "This past quarter has been crazy, to say the least. I've had the highest of highs and the lowest of lows. But I think to sum up this quarter, it has been…"
 ---
 
 ### what's been happening

@@ -2,24 +2,6 @@
 <html lang="en">
   <head>
     {% include head.html %}
-    <!-- Twitter Card Meta Tags -->
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta
-      name="twitter:title"
-      content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}"
-    />
-    <meta
-      name="twitter:description"
-      content="{% if page.description %}{{ page.description | escape }}{% else %}{{ page.content | strip_html | strip_newlines | truncatewords: 50 | escape }}{% endif %}"
-    />
-    <meta
-      name="twitter:image"
-      content="{{ site.url }}{{ page.image | default: site.default_image }}"
-    />
-    <meta
-      name="twitter:image:alt"
-      content="{% if page.image_alt %}{{ page.image_alt | escape }}{% else %}{{ page.title | escape }}{% endif %}"
-    />
   </head>
   <body>
     <div class="page{% if page.layout == 'note' %} page--article{% endif %}">

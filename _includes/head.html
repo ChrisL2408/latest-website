@@ -15,14 +15,36 @@
     })();
   </script>
 
+  <!-- Social preview. share_title/share_desc/share_image are resolved once
+       here so the description, og: and twitter: tags can never disagree. -->
+  {% if page.id == "home" %}
+    {% assign share_title = site.title %}
+    {% assign share_type = "website" %}
+  {% else %}
+    {% assign share_title = page.title | default: site.title %}
+    {% assign share_type = "article" %}
+  {% endif %}
+
+  {% comment %}
+    Articles often open with an image block, so the auto-excerpt strips down to
+    nothing. Fall back to the site description rather than shipping a blank one.
+  {% endcomment %}
+  {% assign auto_desc = page.excerpt | strip_html | strip_newlines | strip %}
+  {% if page.description and page.description != "" %}
+    {% assign share_desc = page.description %}
+  {% elsif auto_desc != "" %}
+    {% assign share_desc = auto_desc %}
+  {% else %}
+    {% assign share_desc = site.description | default: site.title %}
+  {% endif %}
+
+  {% assign share_image = page.image | default: site.default_image %}
+
   <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <meta
-    name="description"
-    content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | escape }}{% else %}{{ site.title | escape }}{% endif %}"
-  />
+  <meta name="description" content="{{ share_desc | truncate: 200 | escape }}" />
 
   <meta property="og:site_name" content="{{ site.title }}" />
 
@@ -41,34 +63,38 @@
 
   <link rel="stylesheet" href="{{ site.baseurl }}/styles.css" />
 
-  {% if page.excerpt %}
+  <meta property="og:title" content="{{ share_title | escape }}" />
+  <meta property="og:type" content="{{ share_type }}" />
   <meta
     property="og:description"
-    content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | escape }}"
+    content="{{ share_desc | truncate: 200 | escape }}"
   />
-  {% else %}
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+  {% if share_image %}
+  <meta property="og:image" content="{{ site.url }}{{ share_image }}" />
+  <meta property="og:image:alt" content="{{ share_title | escape }}" />
+  {% endif %}
+
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="{{ share_title | escape }}" />
   <meta
-    property="og:description"
-    content="{{ site.title | strip_html | strip_newlines | truncate: 160 | escape }}"
+    name="twitter:description"
+    content="{{ share_desc | truncate: 200 | escape }}"
   />
-  {% endif %} {% if page.title %}
-  <meta property="og:title" content="{{ page.title | escape }}" />
-  <meta property="og:type" content="article" />
-  {% else %}
-  <meta property="og:title" content="{{ site.title }}" />
-  <meta property="og:type" content="website" />
-  {% endif %} {% if page.date %}
+  {% if share_image %}
+  <meta name="twitter:image" content="{{ site.url }}{{ share_image }}" />
+  <meta
+    name="twitter:image:alt"
+    content="{{ page.image_alt | default: share_title | escape }}"
+  />
+  {% endif %}
+
+  {% if page.date %}
   <meta
     property="article:published_time"
     content="{{ page.date | date_to_xmlschema }}"
   />
   <meta property="article:author" content="{{ site.url }}/" />
-  {% endif %}
-
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-
-  {% if page.image %}
-  <meta property="og:image" content="{{ site.url }}{{ page.image }}" />
   {% endif %}
 
   <title>

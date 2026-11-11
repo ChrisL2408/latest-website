@@ -3,6 +3,7 @@ title: why i left vc to go build.
 date: 2026-01-19
 category: writing
 subcategory: life lessons
+description: "I was on a zoom call with one of the partners at my previous fund back when I was an intern, squeezing it in between back-to-back meetings. We were…"
 ---
 
 I was on a zoom call with one of the partners at my previous fund back when I was an intern, squeezing it in between back-to-back meetings. We were talking about career paths, the usual stuff, when I asked him something that had been nagging at me for weeks: "How did you pave your way to partner?"

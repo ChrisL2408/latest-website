@@ -4,6 +4,7 @@ date: 2026-03-22
 category: writing
 subcategory: life lessons
 image: /assets/writing_photos/be_delusional.jpeg
+description: "as i was jotting down my habits for the next month, i sat down to look at all the other habits i had successfully completed, failed, or stuck with. trying…"
 ---
 
 <div class="figure">

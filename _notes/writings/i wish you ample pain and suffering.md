@@ -4,6 +4,7 @@ date: 2026-03-03
 category: writing
 subcategory: life lessons
 image: /assets/writing_photos/pain_suffering.jpeg
+description: "That was Jensen Huang, CEO of Nvidia, speaking to stanford students in 2024. his full quote: 'greatness comes from character. and character isn't formed…"
 ---
 
 <div class="figure">

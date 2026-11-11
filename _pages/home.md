@@ -3,6 +3,7 @@ layout: page
 title: Home
 id: home
 permalink: /
+description: "I'm Chris — I run Growth at NationGraph in Toronto. Born in Japan, raised mostly in Singapore, now living in Canada."
 ---
 
 I don't have a straight answer to where I'm from.

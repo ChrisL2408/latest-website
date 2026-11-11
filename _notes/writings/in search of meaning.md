@@ -4,6 +4,7 @@ date: 2026-03-24
 category: writing
 subcategory: life lessons
 image: /assets/writing_photos/in_search_of_meaning.jpeg
+description: "some people just know. they wake up one day and they have this burning problem they need to solve. elon musk wanted to make humanity multi-planetary.…"
 ---
 
 <div class="figure">

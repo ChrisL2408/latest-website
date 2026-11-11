@@ -4,6 +4,7 @@ date: 2026-02-28
 category: writing
 subcategory: life updates
 image: /assets/writing_photos/toronto_winter.jpeg
+description: "what a start to 2026. new city, new job, new chapter and honestly it's been everything i hoped it would be and more. here's a quick overview of what's…"
 ---
 
 ### what's been happening

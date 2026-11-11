@@ -4,6 +4,7 @@ category: writing
 date: 2025-06-01
 subcategory: life lessons
 image: /assets/writing_photos/army1.jpeg
+description: "It was around midnight. My first troop lift mission: 15 soldiers for an overnight operation. Pitch black except for my 5-ton truck's low beam cutting…"
 ---
 
 <div class="figure">

@@ -4,6 +4,7 @@ date: 2025-03-02
 category: writing
 subcategory: life updates
 image: /assets/writing_photos/hanoistreet.jpeg
+description: "since i last wrote on my digital garden/blog it has a been quite a rollercoaster of emotions and events but here's a quick life update since the end of…"
 ---
 
 ## what's been happening

@@ -6,6 +6,7 @@ category: writing
 subcategory: life lessons
 date: 2025-06-06
 image: /assets/writing_photos/frv_1.jpeg
+description: "I'm writing this a few weeks out from my official end date at Front Row Ventures (FRV), which is definitely the most bittersweet feeling I've ever felt…"
 ---
 
 ### Prelude

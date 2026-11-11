@@ -3,6 +3,7 @@ title: a reminder in hard times
 date: 2024-07-26
 subcategory: life updates
 category: writing
+description: "I am proud of who you are as a person, of who you are becoming, of how hard you try in life, and of how you keep going through tough times."
 ---
 
 I don't say this much but

@@ -3,6 +3,7 @@ title: create your luck
 date: 2024-06-16
 subcategory: life reminders
 category: writing
+description: "I get it. Sometimes that person who is slightly more qualified than you gets the job, or you get cut from the varsity team because a recent 5-star recruit…"
 ---
 
 I get it. Sometimes that person who is slightly more qualified than you gets the job, or you get cut from the varsity team because a recent 5-star recruit comes in and takes your starting spot. What if I told you any person can be _lucky_? Many people believe that luck is an external uncontrollable force that happens to other people that gives them a headstart or advantage like the examples above.

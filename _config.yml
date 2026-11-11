@@ -55,6 +55,10 @@ graph_options:
     - "**/references/**"
     - "**/references/*"
 
-default_image: /assets/555_photos/IMG_4036.JPG
+# Fallback image for link previews (X, LinkedIn, iMessage, Slack, WhatsApp).
+# Any page can override it with `image:` in its front matter.
+default_image: /assets/home_photos/IMG_8265.JPG
 
-url: "https://christianlevan.me"
+description: "Christian Levan — Growth at NationGraph in Toronto. Writing about startups, building, and everything in between."
+
+url: "https://chrislevan.me"

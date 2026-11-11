@@ -20,7 +20,8 @@ embed_tweets: false
 permalink: pretty
 relative_permalinks: false
 
-plugins: []
+plugins:
+  - jekyll-last-modified-at
 
 sass:
   sass_dir: _sass
